@@ -1,0 +1,51 @@
+scenario	municipality type	share_new_apts
+accelerated densification	SKL01 metropolitan municipalities (3 municipalities)	1
+accelerated densification	SKL02 suburban municipalities (38 municipalities)	1
+accelerated densification	SKL03 large cities (31 municipalities)	1
+accelerated densification	SKL04 suburban municipalities to large cities (22 municipalities)	1
+accelerated densification	SKL05 commuter municipalities (51 municipalities)	1
+accelerated densification	SKL06 tourism and travel industry municipalities (20 municipalities)	1
+accelerated densification	SKL07 manufacturing municipalities (54 municipalities)	1
+accelerated densification	SKL08 sparsely populated municipalities (20 municipalities)	1
+accelerated densification	SKL09 municipalities in densely populated regions (35 municipalities)	1
+accelerated densification	SKL10 municipalities in sparsely populated regions (16 municipalities)	1
+slow densification	SKL01 metropolitan municipalities (3 municipalities)	1
+slow densification	SKL02 suburban municipalities (38 municipalities)	1
+slow densification	SKL03 large cities (31 municipalities)	1
+slow densification	SKL04 suburban municipalities to large cities (22 municipalities)	1
+slow densification	SKL05 commuter municipalities (51 municipalities)	1
+slow densification	SKL06 tourism and travel industry municipalities (20 municipalities)	1
+slow densification	SKL07 manufacturing municipalities (54 municipalities)	1
+slow densification	SKL08 sparsely populated municipalities (20 municipalities)	1
+slow densification	SKL09 municipalities in densely populated regions (35 municipalities)	1
+slow densification	SKL10 municipalities in sparsely populated regions (16 municipalities)	1
+current values	SKL01 metropolitan municipalities (3 municipalities)	0.96
+current values	SKL02 suburban municipalities (38 municipalities)	0.77
+current values	SKL03 large cities (31 municipalities)	0.81
+current values	SKL04 suburban municipalities to large cities (22 municipalities)	0.53
+current values	SKL05 commuter municipalities (51 municipalities)	0.59
+current values	SKL06 tourism and travel industry municipalities (20 municipalities)	0.59
+current values	SKL07 manufacturing municipalities (54 municipalities)	0.60
+current values	SKL08 sparsely populated municipalities (20 municipalities)	0.53
+current values	SKL09 municipalities in densely populated regions (35 municipalities)	0.57
+current values	SKL10 municipalities in sparsely populated regions (16 municipalities)	0.71
+scenario_bas	SKL01 metropolitan municipalities (3 municipalities)	0.96
+scenario_bas	SKL02 suburban municipalities (38 municipalities)	0.77
+scenario_bas	SKL03 large cities (31 municipalities)	0.81
+scenario_bas	SKL04 suburban municipalities to large cities (22 municipalities)	0.53
+scenario_bas	SKL05 commuter municipalities (51 municipalities)	0.59
+scenario_bas	SKL06 tourism and travel industry municipalities (20 municipalities)	0.59
+scenario_bas	SKL07 manufacturing municipalities (54 municipalities)	0.60
+scenario_bas	SKL08 sparsely populated municipalities (20 municipalities)	0.53
+scenario_bas	SKL09 municipalities in densely populated regions (35 municipalities)	0.57
+scenario_bas	SKL10 municipalities in sparsely populated regions (16 municipalities)	0.71
+current density	SKL01 metropolitan municipalities (3 municipalities)	0.86
+current density	SKL02 suburban municipalities (38 municipalities)	0.52
+current density	SKL03 large cities (31 municipalities)	0.60
+current density	SKL04 suburban municipalities to large cities (22 municipalities)	0.31
+current density	SKL05 commuter municipalities (51 municipalities)	0.36
+current density	SKL06 tourism and travel industry municipalities (20 municipalities)	0.33
+current density	SKL07 manufacturing municipalities (54 municipalities)	0.40
+current density	SKL08 sparsely populated municipalities (20 municipalities)	0.30
+current density	SKL09 municipalities in densely populated regions (35 municipalities)	0.43
+current density	SKL10 municipalities in sparsely populated regions (16 municipalities)	0.42

@@ -1,0 +1,34 @@
+Material_totlist	Material	emission intensity
+Concrete	Concrete	0.14
+Geotextile		2.81
+Energy System		3.29
+Ceramic tile	Ceramics and brick	0.60
+Flat glass	Glass	1.13
+Gypsum	Gypsum	0.19
+Glass wool insulation		1.32
+Insulation acoustic glass wool		6.00
+Rock wool	Mineral wool	1.42
+PS foam		4.42
+PS extruded	EPS	3.82
+Fibre cement roof slate		0.63
+PEHD		1.93
+PELD		2.10
+crushed gravel	Stone and gravel	0.00208
+Acoustic cement panel		0.21
+leveling compound		0.16
+fibre cement corrugated slab		0.58
+Lean concrete		0.06
+asphalt	Bitumen	0.07
+Linoleum		0.90
+Rubber floor covering		2.67
+Steel, reinforcement products		0.36
+Steel, low-alloyed	Steel	2.00
+ventilation duct steel		5.40
+door		3.35
+fibreboard production		1.00
+glued laminated timber		0.49
+laminated timber element		0.50
+medium density fibreboard	Wood products	0.18
+plywood		0.81
+sawnwood - hardwood		0.06
+sawnwood - softwood	Solid wood	0.16

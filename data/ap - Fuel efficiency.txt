@@ -1,0 +1,9 @@
+Powertrain	scalar_mult	scalar_exp					
+Gasoline	21.814	0.0008					
+Diesel	21.612	0.0007					
+Hybrid	22.974107	0.000437					
+Plug-in hybrid	14.868983	0.000478					
+Electric_FC	9.908852	0.000407					
+Fuel-cell	16.020612	0.000474					
+Natural Gas	21.612	0.0007					
+Flex-fuel	21.612	0.0007					

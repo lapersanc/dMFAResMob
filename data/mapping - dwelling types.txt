@@ -1,0 +1,4 @@
+type of building	type of dwelling
+multi-dwelling buildings	flats
+one- or two-dwelling buildings	houses
+other buildings	flats

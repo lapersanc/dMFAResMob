@@ -1,0 +1,14 @@
+energyc	emis_int							
+gasoline	260							
+diesel	262							
+electricity	0							
+natural gas	209							
+hydrogen	0							
+biogasoline	264							
+biodiesel	264							
+								
+								
+								
+								
+								
+								

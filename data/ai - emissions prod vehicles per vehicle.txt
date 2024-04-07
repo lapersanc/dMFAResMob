@@ -1,0 +1,8 @@
+powertrain	a_coef	b_coef
+Gasoline	3.9142	2E-11
+Diesel	3.917	3.2777
+Hybrid	4.0845	8.985
+Plug-in hybrid	4.4676	106.53
+Electric_FC	4.7439	1190.4
+Natural Gas	0	0
+Flex-fuel	0	0

@@ -1,0 +1,25 @@
+scenario	variable_to_change	description
+base	scenario_elmix	Sweden mix
+base	scenario_el	electrification
+base	scenario_extrasoc	current values
+base	scenario_lifetime	base
+social change	scenario_elmix	Sweden mix
+social change	scenario_el	electrification
+social change	scenario_extrasoc	social change
+social change	scenario_lifetime	base
+electricity mix	scenario_elmix	EU mix
+electricity mix	scenario_el	electrification
+electricity mix	scenario_extrasoc	current values
+electricity mix	scenario_lifetime	base
+non-electrification	scenario_elmix	Sweden mix
+non-electrification	scenario_el	current values
+non-electrification	scenario_extrasoc	current values
+non-electrification	scenario_lifetime	base
+scenario_bas	scenario_elmix	Sweden mix
+scenario_bas	scenario_el	electrification
+scenario_bas	scenario_extrasoc	current values
+scenario_bas	scenario_lifetime	base
+lifetime	scenario_elmix	Sweden mix
+lifetime	scenario_el	electrification
+lifetime	scenario_extrasoc	current values
+lifetime	scenario_lifetime	longer

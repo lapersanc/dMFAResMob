@@ -1,0 +1,62 @@
+			social change	social change	current values	current values	scenario_bas	scenario_bas
+year	municipality type	dwelling type	dwelling_size	FSI	dwelling_size	FSI	dwelling_size	FSI
+pre1950	SKL01 metropolitan municipalities (3 municipalities)	one- or two-dwelling buildings	126	2234	126	2234	126	2234
+pre1950	SKL01 metropolitan municipalities (3 municipalities)	multi-dwelling buildings	67	7817	67	7817	67	7817
+pre1950	SKL02 suburban municipalities (38 municipalities)	one- or two-dwelling buildings	127	981	127	981	127	981
+pre1950	SKL02 suburban municipalities (38 municipalities)	multi-dwelling buildings	70	4252	70	4252	70	4252
+pre1950	SKL03 large cities (31 municipalities)	one- or two-dwelling buildings	124	876	124	876	124	876
+pre1950	SKL03 large cities (31 municipalities)	multi-dwelling buildings	68	3802	68	3802	68	3802
+pre1950	SKL04 suburban municipalities to large cities (22 municipalities)	one- or two-dwelling buildings	121	753	121	753	121	753
+pre1950	SKL04 suburban municipalities to large cities (22 municipalities)	multi-dwelling buildings	66	2479	66	2479	66	2479
+pre1950	SKL05 commuter municipalities (51 municipalities)	one- or two-dwelling buildings	120	653	120	653	120	653
+pre1950	SKL05 commuter municipalities (51 municipalities)	multi-dwelling buildings	67	2729	67	2729	67	2729
+pre1950	SKL06 tourism and travel industry municipalities (20 municipalities)	one- or two-dwelling buildings	112	298	112	298	112	298
+pre1950	SKL06 tourism and travel industry municipalities (20 municipalities)	multi-dwelling buildings	66	1953	66	1953	66	1953
+pre1950	SKL07 manufacturing municipalities (54 municipalities)	one- or two-dwelling buildings	121	602	121	602	121	602
+pre1950	SKL07 manufacturing municipalities (54 municipalities)	multi-dwelling buildings	65	2488	65	2488	65	2488
+pre1950	SKL08 sparsely populated municipalities (20 municipalities)	one- or two-dwelling buildings	115	340	115	340	115	340
+pre1950	SKL08 sparsely populated municipalities (20 municipalities)	multi-dwelling buildings	63	1627	63	1627	63	1627
+pre1950	SKL09 municipalities in densely populated regions (35 municipalities)	one- or two-dwelling buildings	121	667	121	667	121	667
+pre1950	SKL09 municipalities in densely populated regions (35 municipalities)	multi-dwelling buildings	66	3018	66	3018	66	3018
+pre1950	SKL10 municipalities in sparsely populated regions (16 municipalities)	one- or two-dwelling buildings	116	499	116	499	116	499
+pre1950	SKL10 municipalities in sparsely populated regions (16 municipalities)	multi-dwelling buildings	64	2438	64	2438	64	2438
+post1950	SKL01 metropolitan municipalities (3 municipalities)	one- or two-dwelling buildings	126	1720	126	1720	126	1720
+post1950	SKL01 metropolitan municipalities (3 municipalities)	multi-dwelling buildings	67	11746	67	11746	67	11746
+post1950	SKL02 suburban municipalities (38 municipalities)	one- or two-dwelling buildings	127	784	127	784	127	784
+post1950	SKL02 suburban municipalities (38 municipalities)	multi-dwelling buildings	70	5435	70	5435	70	5435
+post1950	SKL03 large cities (31 municipalities)	one- or two-dwelling buildings	124	682	124	682	124	682
+post1950	SKL03 large cities (31 municipalities)	multi-dwelling buildings	68	5123	68	5123	68	5123
+post1950	SKL04 suburban municipalities to large cities (22 municipalities)	one- or two-dwelling buildings	121	577	121	577	121	577
+post1950	SKL04 suburban municipalities to large cities (22 municipalities)	multi-dwelling buildings	66	3247	66	3247	66	3247
+post1950	SKL05 commuter municipalities (51 municipalities)	one- or two-dwelling buildings	120	492	120	492	120	492
+post1950	SKL05 commuter municipalities (51 municipalities)	multi-dwelling buildings	67	3624	67	3624	67	3624
+post1950	SKL06 tourism and travel industry municipalities (20 municipalities)	one- or two-dwelling buildings	112	224	112	224	112	224
+post1950	SKL06 tourism and travel industry municipalities (20 municipalities)	multi-dwelling buildings	66	2564	66	2564	66	2564
+post1950	SKL07 manufacturing municipalities (54 municipalities)	one- or two-dwelling buildings	121	445	121	445	121	445
+post1950	SKL07 manufacturing municipalities (54 municipalities)	multi-dwelling buildings	65	3321	65	3321	65	3321
+post1950	SKL08 sparsely populated municipalities (20 municipalities)	one- or two-dwelling buildings	115	244	115	244	115	244
+post1950	SKL08 sparsely populated municipalities (20 municipalities)	multi-dwelling buildings	63	2159	63	2159	63	2159
+post1950	SKL09 municipalities in densely populated regions (35 municipalities)	one- or two-dwelling buildings	121	497	121	497	121	497
+post1950	SKL09 municipalities in densely populated regions (35 municipalities)	multi-dwelling buildings	66	4079	66	4079	66	4079
+post1950	SKL10 municipalities in sparsely populated regions (16 municipalities)	one- or two-dwelling buildings	116	377	116	377	116	377
+post1950	SKL10 municipalities in sparsely populated regions (16 municipalities)	multi-dwelling buildings	64	3227	64	3227	64	3227
+future	SKL01 metropolitan municipalities (3 municipalities)	one- or two-dwelling buildings	126	2234	126	2234	126	2234
+future	SKL01 metropolitan municipalities (3 municipalities)	multi-dwelling buildings	67	11746	67	11746	67	11746
+future	SKL02 suburban municipalities (38 municipalities)	one- or two-dwelling buildings	127	981	127	981	127	981
+future	SKL02 suburban municipalities (38 municipalities)	multi-dwelling buildings	70	5435	70	5435	70	5435
+future	SKL03 large cities (31 municipalities)	one- or two-dwelling buildings	124	876	124	876	124	876
+future	SKL03 large cities (31 municipalities)	multi-dwelling buildings	68	5123	68	5123	68	5123
+future	SKL04 suburban municipalities to large cities (22 municipalities)	one- or two-dwelling buildings	121	753	121	753	121	753
+future	SKL04 suburban municipalities to large cities (22 municipalities)	multi-dwelling buildings	66	3247	66	3247	66	3247
+future	SKL05 commuter municipalities (51 municipalities)	one- or two-dwelling buildings	120	653	120	653	120	653
+future	SKL05 commuter municipalities (51 municipalities)	multi-dwelling buildings	67	3624	67	3624	67	3624
+future	SKL06 tourism and travel industry municipalities (20 municipalities)	one- or two-dwelling buildings	112	298	112	298	112	298
+future	SKL06 tourism and travel industry municipalities (20 municipalities)	multi-dwelling buildings	66	2564	66	2564	66	2564
+future	SKL07 manufacturing municipalities (54 municipalities)	one- or two-dwelling buildings	121	602	121	602	121	602
+future	SKL07 manufacturing municipalities (54 municipalities)	multi-dwelling buildings	65	3321	65	3321	65	3321
+future	SKL08 sparsely populated municipalities (20 municipalities)	one- or two-dwelling buildings	115	340	115	340	115	340
+future	SKL08 sparsely populated municipalities (20 municipalities)	multi-dwelling buildings	63	2159	63	2159	63	2159
+future	SKL09 municipalities in densely populated regions (35 municipalities)	one- or two-dwelling buildings	121	667	121	667	121	667
+future	SKL09 municipalities in densely populated regions (35 municipalities)	multi-dwelling buildings	66	4079	66	4079	66	4079
+future	SKL10 municipalities in sparsely populated regions (16 municipalities)	one- or two-dwelling buildings	116	499	116	499	116	499
+future	SKL10 municipalities in sparsely populated regions (16 municipalities)	multi-dwelling buildings	64	3227	64	3227	64	3227

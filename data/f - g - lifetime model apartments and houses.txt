@@ -1,0 +1,31 @@
+scenario_type	scenario	case	stddev	mean
+base	accelerated densification	new houses	13.75	55
+base	accelerated densification	old houses	30	120
+base	accelerated densification	apartments	37.5	150
+base	slow densification	new houses	30	120
+base	slow densification	old houses	30	120
+base	slow densification	apartments	37.5	150
+base	current values	new houses	30	120
+base	current values	old houses	30	120
+base	current values	apartments	37.5	150
+base	scenario_bas	new houses	30	120
+base	scenario_bas	old houses	30	120
+base	scenario_bas	apartments	37.5	150
+base	current density	new houses	30	120
+base	current density	old houses	30	120
+base	current density	apartments	37.5	150
+longer	accelerated densification	new houses	13.75	55
+longer	accelerated densification	old houses	50	200
+longer	accelerated densification	apartments	50	200
+longer	slow densification	new houses	50	200
+longer	slow densification	old houses	50	200
+longer	slow densification	apartments	50	200
+longer	current values	new houses	50	200
+longer	current values	old houses	50	200
+longer	current values	apartments	50	200
+longer	scenario_bas	new houses	50	200
+longer	scenario_bas	old houses	50	200
+longer	scenario_bas	apartments	50	200
+longer	current density	new houses	50	200
+longer	current density	old houses	50	200
+longer	current density	apartments	50	200

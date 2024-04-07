@@ -1,0 +1,921 @@
+"year"	"region"	"type of building"	Completed dwellings in newly constructed buildings
+"1975"	"SKL01 metropolitan municipalities (3 municipalities)"	"multi-dwelling buildings"	7850
+"1975"	"SKL01 metropolitan municipalities (3 municipalities)"	"one- or two-dwelling buildings"	3374
+"1975"	"SKL02 suburban municipalities (38 municipalities)"	"multi-dwelling buildings"	4501
+"1975"	"SKL02 suburban municipalities (38 municipalities)"	"one- or two-dwelling buildings"	7319
+"1975"	"SKL03 large cities (31 municipalities)"	"multi-dwelling buildings"	9462
+"1975"	"SKL03 large cities (31 municipalities)"	"one- or two-dwelling buildings"	13026
+"1975"	"SKL04 suburban municipalities to large cities (22 municipalities)"	"multi-dwelling buildings"	604
+"1975"	"SKL04 suburban municipalities to large cities (22 municipalities)"	"one- or two-dwelling buildings"	2014
+"1975"	"SKL05 commuter municipalities (51 municipalities)"	"multi-dwelling buildings"	768
+"1975"	"SKL05 commuter municipalities (51 municipalities)"	"one- or two-dwelling buildings"	4540
+"1975"	"SKL06 tourism and travel industry municipalities (20 municipalities)"	"multi-dwelling buildings"	494
+"1975"	"SKL06 tourism and travel industry municipalities (20 municipalities)"	"one- or two-dwelling buildings"	1849
+"1975"	"SKL07 manufacturing municipalities (54 municipalities)"	"multi-dwelling buildings"	967
+"1975"	"SKL07 manufacturing municipalities (54 municipalities)"	"one- or two-dwelling buildings"	6013
+"1975"	"SKL08 sparsely populated municipalities (20 municipalities)"	"multi-dwelling buildings"	301
+"1975"	"SKL08 sparsely populated municipalities (20 municipalities)"	"one- or two-dwelling buildings"	1121
+"1975"	"SKL09 municipalities in densely populated regions (35 municipalities)"	"multi-dwelling buildings"	1731
+"1975"	"SKL09 municipalities in densely populated regions (35 municipalities)"	"one- or two-dwelling buildings"	5442
+"1975"	"SKL10 municipalities in sparsely populated regions (16 municipalities)"	"multi-dwelling buildings"	764
+"1975"	"SKL10 municipalities in sparsely populated regions (16 municipalities)"	"one- or two-dwelling buildings"	2359
+"1976"	"SKL01 metropolitan municipalities (3 municipalities)"	"multi-dwelling buildings"	4100
+"1976"	"SKL01 metropolitan municipalities (3 municipalities)"	"one- or two-dwelling buildings"	2631
+"1976"	"SKL02 suburban municipalities (38 municipalities)"	"multi-dwelling buildings"	1934
+"1976"	"SKL02 suburban municipalities (38 municipalities)"	"one- or two-dwelling buildings"	6662
+"1976"	"SKL03 large cities (31 municipalities)"	"multi-dwelling buildings"	5651
+"1976"	"SKL03 large cities (31 municipalities)"	"one- or two-dwelling buildings"	11236
+"1976"	"SKL04 suburban municipalities to large cities (22 municipalities)"	"multi-dwelling buildings"	52
+"1976"	"SKL04 suburban municipalities to large cities (22 municipalities)"	"one- or two-dwelling buildings"	1927
+"1976"	"SKL05 commuter municipalities (51 municipalities)"	"multi-dwelling buildings"	519
+"1976"	"SKL05 commuter municipalities (51 municipalities)"	"one- or two-dwelling buildings"	3884
+"1976"	"SKL06 tourism and travel industry municipalities (20 municipalities)"	"multi-dwelling buildings"	675
+"1976"	"SKL06 tourism and travel industry municipalities (20 municipalities)"	"one- or two-dwelling buildings"	1565
+"1976"	"SKL07 manufacturing municipalities (54 municipalities)"	"multi-dwelling buildings"	750
+"1976"	"SKL07 manufacturing municipalities (54 municipalities)"	"one- or two-dwelling buildings"	4792
+"1976"	"SKL08 sparsely populated municipalities (20 municipalities)"	"multi-dwelling buildings"	415
+"1976"	"SKL08 sparsely populated municipalities (20 municipalities)"	"one- or two-dwelling buildings"	1004
+"1976"	"SKL09 municipalities in densely populated regions (35 municipalities)"	"multi-dwelling buildings"	763
+"1976"	"SKL09 municipalities in densely populated regions (35 municipalities)"	"one- or two-dwelling buildings"	3966
+"1976"	"SKL10 municipalities in sparsely populated regions (16 municipalities)"	"multi-dwelling buildings"	812
+"1976"	"SKL10 municipalities in sparsely populated regions (16 municipalities)"	"one- or two-dwelling buildings"	2474
+"1977"	"SKL01 metropolitan municipalities (3 municipalities)"	"multi-dwelling buildings"	3740
+"1977"	"SKL01 metropolitan municipalities (3 municipalities)"	"one- or two-dwelling buildings"	1922
+"1977"	"SKL02 suburban municipalities (38 municipalities)"	"multi-dwelling buildings"	958
+"1977"	"SKL02 suburban municipalities (38 municipalities)"	"one- or two-dwelling buildings"	6105
+"1977"	"SKL03 large cities (31 municipalities)"	"multi-dwelling buildings"	5265
+"1977"	"SKL03 large cities (31 municipalities)"	"one- or two-dwelling buildings"	12339
+"1977"	"SKL04 suburban municipalities to large cities (22 municipalities)"	"multi-dwelling buildings"	80
+"1977"	"SKL04 suburban municipalities to large cities (22 municipalities)"	"one- or two-dwelling buildings"	1749
+"1977"	"SKL05 commuter municipalities (51 municipalities)"	"multi-dwelling buildings"	414
+"1977"	"SKL05 commuter municipalities (51 municipalities)"	"one- or two-dwelling buildings"	4179
+"1977"	"SKL06 tourism and travel industry municipalities (20 municipalities)"	"multi-dwelling buildings"	551
+"1977"	"SKL06 tourism and travel industry municipalities (20 municipalities)"	"one- or two-dwelling buildings"	1542
+"1977"	"SKL07 manufacturing municipalities (54 municipalities)"	"multi-dwelling buildings"	656
+"1977"	"SKL07 manufacturing municipalities (54 municipalities)"	"one- or two-dwelling buildings"	4953
+"1977"	"SKL08 sparsely populated municipalities (20 municipalities)"	"multi-dwelling buildings"	389
+"1977"	"SKL08 sparsely populated municipalities (20 municipalities)"	"one- or two-dwelling buildings"	896
+"1977"	"SKL09 municipalities in densely populated regions (35 municipalities)"	"multi-dwelling buildings"	952
+"1977"	"SKL09 municipalities in densely populated regions (35 municipalities)"	"one- or two-dwelling buildings"	4279
+"1977"	"SKL10 municipalities in sparsely populated regions (16 municipalities)"	"multi-dwelling buildings"	1123
+"1977"	"SKL10 municipalities in sparsely populated regions (16 municipalities)"	"one- or two-dwelling buildings"	2786
+"1978"	"SKL01 metropolitan municipalities (3 municipalities)"	"multi-dwelling buildings"	2602
+"1978"	"SKL01 metropolitan municipalities (3 municipalities)"	"one- or two-dwelling buildings"	1659
+"1978"	"SKL02 suburban municipalities (38 municipalities)"	"multi-dwelling buildings"	931
+"1978"	"SKL02 suburban municipalities (38 municipalities)"	"one- or two-dwelling buildings"	5532
+"1978"	"SKL03 large cities (31 municipalities)"	"multi-dwelling buildings"	5149
+"1978"	"SKL03 large cities (31 municipalities)"	"one- or two-dwelling buildings"	12246
+"1978"	"SKL04 suburban municipalities to large cities (22 municipalities)"	"multi-dwelling buildings"	347
+"1978"	"SKL04 suburban municipalities to large cities (22 municipalities)"	"one- or two-dwelling buildings"	1589
+"1978"	"SKL05 commuter municipalities (51 municipalities)"	"multi-dwelling buildings"	545
+"1978"	"SKL05 commuter municipalities (51 municipalities)"	"one- or two-dwelling buildings"	3932
+"1978"	"SKL06 tourism and travel industry municipalities (20 municipalities)"	"multi-dwelling buildings"	312
+"1978"	"SKL06 tourism and travel industry municipalities (20 municipalities)"	"one- or two-dwelling buildings"	1833
+"1978"	"SKL07 manufacturing municipalities (54 municipalities)"	"multi-dwelling buildings"	1314
+"1978"	"SKL07 manufacturing municipalities (54 municipalities)"	"one- or two-dwelling buildings"	4890
+"1978"	"SKL08 sparsely populated municipalities (20 municipalities)"	"multi-dwelling buildings"	215
+"1978"	"SKL08 sparsely populated municipalities (20 municipalities)"	"one- or two-dwelling buildings"	973
+"1978"	"SKL09 municipalities in densely populated regions (35 municipalities)"	"multi-dwelling buildings"	1124
+"1978"	"SKL09 municipalities in densely populated regions (35 municipalities)"	"one- or two-dwelling buildings"	5088
+"1978"	"SKL10 municipalities in sparsely populated regions (16 municipalities)"	"multi-dwelling buildings"	1034
+"1978"	"SKL10 municipalities in sparsely populated regions (16 municipalities)"	"one- or two-dwelling buildings"	2427
+"1979"	"SKL01 metropolitan municipalities (3 municipalities)"	"multi-dwelling buildings"	3531
+"1979"	"SKL01 metropolitan municipalities (3 municipalities)"	"one- or two-dwelling buildings"	2097
+"1979"	"SKL02 suburban municipalities (38 municipalities)"	"multi-dwelling buildings"	1005
+"1979"	"SKL02 suburban municipalities (38 municipalities)"	"one- or two-dwelling buildings"	5121
+"1979"	"SKL03 large cities (31 municipalities)"	"multi-dwelling buildings"	6007
+"1979"	"SKL03 large cities (31 municipalities)"	"one- or two-dwelling buildings"	12106
+"1979"	"SKL04 suburban municipalities to large cities (22 municipalities)"	"multi-dwelling buildings"	252
+"1979"	"SKL04 suburban municipalities to large cities (22 municipalities)"	"one- or two-dwelling buildings"	1594
+"1979"	"SKL05 commuter municipalities (51 municipalities)"	"multi-dwelling buildings"	1029
+"1979"	"SKL05 commuter municipalities (51 municipalities)"	"one- or two-dwelling buildings"	4154
+"1979"	"SKL06 tourism and travel industry municipalities (20 municipalities)"	"multi-dwelling buildings"	385
+"1979"	"SKL06 tourism and travel industry municipalities (20 municipalities)"	"one- or two-dwelling buildings"	1848
+"1979"	"SKL07 manufacturing municipalities (54 municipalities)"	"multi-dwelling buildings"	1034
+"1979"	"SKL07 manufacturing municipalities (54 municipalities)"	"one- or two-dwelling buildings"	4515
+"1979"	"SKL08 sparsely populated municipalities (20 municipalities)"	"multi-dwelling buildings"	385
+"1979"	"SKL08 sparsely populated municipalities (20 municipalities)"	"one- or two-dwelling buildings"	1085
+"1979"	"SKL09 municipalities in densely populated regions (35 municipalities)"	"multi-dwelling buildings"	986
+"1979"	"SKL09 municipalities in densely populated regions (35 municipalities)"	"one- or two-dwelling buildings"	5400
+"1979"	"SKL10 municipalities in sparsely populated regions (16 municipalities)"	"multi-dwelling buildings"	999
+"1979"	"SKL10 municipalities in sparsely populated regions (16 municipalities)"	"one- or two-dwelling buildings"	1958
+"1980"	"SKL01 metropolitan municipalities (3 municipalities)"	"multi-dwelling buildings"	3130
+"1980"	"SKL01 metropolitan municipalities (3 municipalities)"	"one- or two-dwelling buildings"	1924
+"1980"	"SKL02 suburban municipalities (38 municipalities)"	"multi-dwelling buildings"	1904
+"1980"	"SKL02 suburban municipalities (38 municipalities)"	"one- or two-dwelling buildings"	4223
+"1980"	"SKL03 large cities (31 municipalities)"	"multi-dwelling buildings"	6546
+"1980"	"SKL03 large cities (31 municipalities)"	"one- or two-dwelling buildings"	10562
+"1980"	"SKL04 suburban municipalities to large cities (22 municipalities)"	"multi-dwelling buildings"	201
+"1980"	"SKL04 suburban municipalities to large cities (22 municipalities)"	"one- or two-dwelling buildings"	1558
+"1980"	"SKL05 commuter municipalities (51 municipalities)"	"multi-dwelling buildings"	622
+"1980"	"SKL05 commuter municipalities (51 municipalities)"	"one- or two-dwelling buildings"	3742
+"1980"	"SKL06 tourism and travel industry municipalities (20 municipalities)"	"multi-dwelling buildings"	477
+"1980"	"SKL06 tourism and travel industry municipalities (20 municipalities)"	"one- or two-dwelling buildings"	1430
+"1980"	"SKL07 manufacturing municipalities (54 municipalities)"	"multi-dwelling buildings"	762
+"1980"	"SKL07 manufacturing municipalities (54 municipalities)"	"one- or two-dwelling buildings"	4587
+"1980"	"SKL08 sparsely populated municipalities (20 municipalities)"	"multi-dwelling buildings"	371
+"1980"	"SKL08 sparsely populated municipalities (20 municipalities)"	"one- or two-dwelling buildings"	1025
+"1980"	"SKL09 municipalities in densely populated regions (35 municipalities)"	"multi-dwelling buildings"	1283
+"1980"	"SKL09 municipalities in densely populated regions (35 municipalities)"	"one- or two-dwelling buildings"	4716
+"1980"	"SKL10 municipalities in sparsely populated regions (16 municipalities)"	"multi-dwelling buildings"	606
+"1980"	"SKL10 municipalities in sparsely populated regions (16 municipalities)"	"one- or two-dwelling buildings"	1769
+"1981"	"SKL01 metropolitan municipalities (3 municipalities)"	"multi-dwelling buildings"	3249
+"1981"	"SKL01 metropolitan municipalities (3 municipalities)"	"one- or two-dwelling buildings"	1355
+"1981"	"SKL02 suburban municipalities (38 municipalities)"	"multi-dwelling buildings"	2220
+"1981"	"SKL02 suburban municipalities (38 municipalities)"	"one- or two-dwelling buildings"	5348
+"1981"	"SKL03 large cities (31 municipalities)"	"multi-dwelling buildings"	7234
+"1981"	"SKL03 large cities (31 municipalities)"	"one- or two-dwelling buildings"	10089
+"1981"	"SKL04 suburban municipalities to large cities (22 municipalities)"	"multi-dwelling buildings"	280
+"1981"	"SKL04 suburban municipalities to large cities (22 municipalities)"	"one- or two-dwelling buildings"	1178
+"1981"	"SKL05 commuter municipalities (51 municipalities)"	"multi-dwelling buildings"	578
+"1981"	"SKL05 commuter municipalities (51 municipalities)"	"one- or two-dwelling buildings"	3751
+"1981"	"SKL06 tourism and travel industry municipalities (20 municipalities)"	"multi-dwelling buildings"	419
+"1981"	"SKL06 tourism and travel industry municipalities (20 municipalities)"	"one- or two-dwelling buildings"	1756
+"1981"	"SKL07 manufacturing municipalities (54 municipalities)"	"multi-dwelling buildings"	997
+"1981"	"SKL07 manufacturing municipalities (54 municipalities)"	"one- or two-dwelling buildings"	3856
+"1981"	"SKL08 sparsely populated municipalities (20 municipalities)"	"multi-dwelling buildings"	390
+"1981"	"SKL08 sparsely populated municipalities (20 municipalities)"	"one- or two-dwelling buildings"	1026
+"1981"	"SKL09 municipalities in densely populated regions (35 municipalities)"	"multi-dwelling buildings"	1368
+"1981"	"SKL09 municipalities in densely populated regions (35 municipalities)"	"one- or two-dwelling buildings"	3709
+"1981"	"SKL10 municipalities in sparsely populated regions (16 municipalities)"	"multi-dwelling buildings"	866
+"1981"	"SKL10 municipalities in sparsely populated regions (16 municipalities)"	"one- or two-dwelling buildings"	1928
+"1982"	"SKL01 metropolitan municipalities (3 municipalities)"	"multi-dwelling buildings"	3911
+"1982"	"SKL01 metropolitan municipalities (3 municipalities)"	"one- or two-dwelling buildings"	1316
+"1982"	"SKL02 suburban municipalities (38 municipalities)"	"multi-dwelling buildings"	2471
+"1982"	"SKL02 suburban municipalities (38 municipalities)"	"one- or two-dwelling buildings"	3959
+"1982"	"SKL03 large cities (31 municipalities)"	"multi-dwelling buildings"	6871
+"1982"	"SKL03 large cities (31 municipalities)"	"one- or two-dwelling buildings"	8808
+"1982"	"SKL04 suburban municipalities to large cities (22 municipalities)"	"multi-dwelling buildings"	422
+"1982"	"SKL04 suburban municipalities to large cities (22 municipalities)"	"one- or two-dwelling buildings"	859
+"1982"	"SKL05 commuter municipalities (51 municipalities)"	"multi-dwelling buildings"	998
+"1982"	"SKL05 commuter municipalities (51 municipalities)"	"one- or two-dwelling buildings"	2721
+"1982"	"SKL06 tourism and travel industry municipalities (20 municipalities)"	"multi-dwelling buildings"	650
+"1982"	"SKL06 tourism and travel industry municipalities (20 municipalities)"	"one- or two-dwelling buildings"	1517
+"1982"	"SKL07 manufacturing municipalities (54 municipalities)"	"multi-dwelling buildings"	1032
+"1982"	"SKL07 manufacturing municipalities (54 municipalities)"	"one- or two-dwelling buildings"	2681
+"1982"	"SKL08 sparsely populated municipalities (20 municipalities)"	"multi-dwelling buildings"	428
+"1982"	"SKL08 sparsely populated municipalities (20 municipalities)"	"one- or two-dwelling buildings"	798
+"1982"	"SKL09 municipalities in densely populated regions (35 municipalities)"	"multi-dwelling buildings"	1030
+"1982"	"SKL09 municipalities in densely populated regions (35 municipalities)"	"one- or two-dwelling buildings"	2850
+"1982"	"SKL10 municipalities in sparsely populated regions (16 municipalities)"	"multi-dwelling buildings"	512
+"1982"	"SKL10 municipalities in sparsely populated regions (16 municipalities)"	"one- or two-dwelling buildings"	1274
+"1983"	"SKL01 metropolitan municipalities (3 municipalities)"	"multi-dwelling buildings"	3911
+"1983"	"SKL01 metropolitan municipalities (3 municipalities)"	"one- or two-dwelling buildings"	1485
+"1983"	"SKL02 suburban municipalities (38 municipalities)"	"multi-dwelling buildings"	3756
+"1983"	"SKL02 suburban municipalities (38 municipalities)"	"one- or two-dwelling buildings"	4903
+"1983"	"SKL03 large cities (31 municipalities)"	"multi-dwelling buildings"	7935
+"1983"	"SKL03 large cities (31 municipalities)"	"one- or two-dwelling buildings"	6801
+"1983"	"SKL04 suburban municipalities to large cities (22 municipalities)"	"multi-dwelling buildings"	497
+"1983"	"SKL04 suburban municipalities to large cities (22 municipalities)"	"one- or two-dwelling buildings"	769
+"1983"	"SKL05 commuter municipalities (51 municipalities)"	"multi-dwelling buildings"	1168
+"1983"	"SKL05 commuter municipalities (51 municipalities)"	"one- or two-dwelling buildings"	2268
+"1983"	"SKL06 tourism and travel industry municipalities (20 municipalities)"	"multi-dwelling buildings"	557
+"1983"	"SKL06 tourism and travel industry municipalities (20 municipalities)"	"one- or two-dwelling buildings"	1219
+"1983"	"SKL07 manufacturing municipalities (54 municipalities)"	"multi-dwelling buildings"	825
+"1983"	"SKL07 manufacturing municipalities (54 municipalities)"	"one- or two-dwelling buildings"	1906
+"1983"	"SKL08 sparsely populated municipalities (20 municipalities)"	"multi-dwelling buildings"	173
+"1983"	"SKL08 sparsely populated municipalities (20 municipalities)"	"one- or two-dwelling buildings"	550
+"1983"	"SKL09 municipalities in densely populated regions (35 municipalities)"	"multi-dwelling buildings"	1194
+"1983"	"SKL09 municipalities in densely populated regions (35 municipalities)"	"one- or two-dwelling buildings"	2300
+"1983"	"SKL10 municipalities in sparsely populated regions (16 municipalities)"	"multi-dwelling buildings"	205
+"1983"	"SKL10 municipalities in sparsely populated regions (16 municipalities)"	"one- or two-dwelling buildings"	942
+"1984"	"SKL01 metropolitan municipalities (3 municipalities)"	"multi-dwelling buildings"	3440
+"1984"	"SKL01 metropolitan municipalities (3 municipalities)"	"one- or two-dwelling buildings"	1123
+"1984"	"SKL02 suburban municipalities (38 municipalities)"	"multi-dwelling buildings"	3382
+"1984"	"SKL02 suburban municipalities (38 municipalities)"	"one- or two-dwelling buildings"	4368
+"1984"	"SKL03 large cities (31 municipalities)"	"multi-dwelling buildings"	6685
+"1984"	"SKL03 large cities (31 municipalities)"	"one- or two-dwelling buildings"	4923
+"1984"	"SKL04 suburban municipalities to large cities (22 municipalities)"	"multi-dwelling buildings"	243
+"1984"	"SKL04 suburban municipalities to large cities (22 municipalities)"	"one- or two-dwelling buildings"	588
+"1984"	"SKL05 commuter municipalities (51 municipalities)"	"multi-dwelling buildings"	655
+"1984"	"SKL05 commuter municipalities (51 municipalities)"	"one- or two-dwelling buildings"	1695
+"1984"	"SKL06 tourism and travel industry municipalities (20 municipalities)"	"multi-dwelling buildings"	423
+"1984"	"SKL06 tourism and travel industry municipalities (20 municipalities)"	"one- or two-dwelling buildings"	905
+"1984"	"SKL07 manufacturing municipalities (54 municipalities)"	"multi-dwelling buildings"	621
+"1984"	"SKL07 manufacturing municipalities (54 municipalities)"	"one- or two-dwelling buildings"	1279
+"1984"	"SKL08 sparsely populated municipalities (20 municipalities)"	"multi-dwelling buildings"	393
+"1984"	"SKL08 sparsely populated municipalities (20 municipalities)"	"one- or two-dwelling buildings"	438
+"1984"	"SKL09 municipalities in densely populated regions (35 municipalities)"	"multi-dwelling buildings"	808
+"1984"	"SKL09 municipalities in densely populated regions (35 municipalities)"	"one- or two-dwelling buildings"	1618
+"1984"	"SKL10 municipalities in sparsely populated regions (16 municipalities)"	"multi-dwelling buildings"	435
+"1984"	"SKL10 municipalities in sparsely populated regions (16 municipalities)"	"one- or two-dwelling buildings"	966
+"1985"	"SKL01 metropolitan municipalities (3 municipalities)"	"multi-dwelling buildings"	4230
+"1985"	"SKL01 metropolitan municipalities (3 municipalities)"	"one- or two-dwelling buildings"	790
+"1985"	"SKL02 suburban municipalities (38 municipalities)"	"multi-dwelling buildings"	4121
+"1985"	"SKL02 suburban municipalities (38 municipalities)"	"one- or two-dwelling buildings"	3846
+"1985"	"SKL03 large cities (31 municipalities)"	"multi-dwelling buildings"	5901
+"1985"	"SKL03 large cities (31 municipalities)"	"one- or two-dwelling buildings"	4415
+"1985"	"SKL04 suburban municipalities to large cities (22 municipalities)"	"multi-dwelling buildings"	246
+"1985"	"SKL04 suburban municipalities to large cities (22 municipalities)"	"one- or two-dwelling buildings"	761
+"1985"	"SKL05 commuter municipalities (51 municipalities)"	"multi-dwelling buildings"	519
+"1985"	"SKL05 commuter municipalities (51 municipalities)"	"one- or two-dwelling buildings"	1399
+"1985"	"SKL06 tourism and travel industry municipalities (20 municipalities)"	"multi-dwelling buildings"	648
+"1985"	"SKL06 tourism and travel industry municipalities (20 municipalities)"	"one- or two-dwelling buildings"	871
+"1985"	"SKL07 manufacturing municipalities (54 municipalities)"	"multi-dwelling buildings"	505
+"1985"	"SKL07 manufacturing municipalities (54 municipalities)"	"one- or two-dwelling buildings"	1191
+"1985"	"SKL08 sparsely populated municipalities (20 municipalities)"	"multi-dwelling buildings"	241
+"1985"	"SKL08 sparsely populated municipalities (20 municipalities)"	"one- or two-dwelling buildings"	416
+"1985"	"SKL09 municipalities in densely populated regions (35 municipalities)"	"multi-dwelling buildings"	390
+"1985"	"SKL09 municipalities in densely populated regions (35 municipalities)"	"one- or two-dwelling buildings"	1380
+"1985"	"SKL10 municipalities in sparsely populated regions (16 municipalities)"	"multi-dwelling buildings"	323
+"1985"	"SKL10 municipalities in sparsely populated regions (16 municipalities)"	"one- or two-dwelling buildings"	739
+"1986"	"SKL01 metropolitan municipalities (3 municipalities)"	"multi-dwelling buildings"	3049
+"1986"	"SKL01 metropolitan municipalities (3 municipalities)"	"one- or two-dwelling buildings"	918
+"1986"	"SKL02 suburban municipalities (38 municipalities)"	"multi-dwelling buildings"	3084
+"1986"	"SKL02 suburban municipalities (38 municipalities)"	"one- or two-dwelling buildings"	3141
+"1986"	"SKL03 large cities (31 municipalities)"	"multi-dwelling buildings"	4695
+"1986"	"SKL03 large cities (31 municipalities)"	"one- or two-dwelling buildings"	4073
+"1986"	"SKL04 suburban municipalities to large cities (22 municipalities)"	"multi-dwelling buildings"	263
+"1986"	"SKL04 suburban municipalities to large cities (22 municipalities)"	"one- or two-dwelling buildings"	539
+"1986"	"SKL05 commuter municipalities (51 municipalities)"	"multi-dwelling buildings"	813
+"1986"	"SKL05 commuter municipalities (51 municipalities)"	"one- or two-dwelling buildings"	1131
+"1986"	"SKL06 tourism and travel industry municipalities (20 municipalities)"	"multi-dwelling buildings"	612
+"1986"	"SKL06 tourism and travel industry municipalities (20 municipalities)"	"one- or two-dwelling buildings"	652
+"1986"	"SKL07 manufacturing municipalities (54 municipalities)"	"multi-dwelling buildings"	978
+"1986"	"SKL07 manufacturing municipalities (54 municipalities)"	"one- or two-dwelling buildings"	994
+"1986"	"SKL08 sparsely populated municipalities (20 municipalities)"	"multi-dwelling buildings"	214
+"1986"	"SKL08 sparsely populated municipalities (20 municipalities)"	"one- or two-dwelling buildings"	274
+"1986"	"SKL09 municipalities in densely populated regions (35 municipalities)"	"multi-dwelling buildings"	1086
+"1986"	"SKL09 municipalities in densely populated regions (35 municipalities)"	"one- or two-dwelling buildings"	1112
+"1986"	"SKL10 municipalities in sparsely populated regions (16 municipalities)"	"multi-dwelling buildings"	480
+"1986"	"SKL10 municipalities in sparsely populated regions (16 municipalities)"	"one- or two-dwelling buildings"	683
+"1987"	"SKL01 metropolitan municipalities (3 municipalities)"	"multi-dwelling buildings"	2288
+"1987"	"SKL01 metropolitan municipalities (3 municipalities)"	"one- or two-dwelling buildings"	805
+"1987"	"SKL02 suburban municipalities (38 municipalities)"	"multi-dwelling buildings"	3513
+"1987"	"SKL02 suburban municipalities (38 municipalities)"	"one- or two-dwelling buildings"	3455
+"1987"	"SKL03 large cities (31 municipalities)"	"multi-dwelling buildings"	5166
+"1987"	"SKL03 large cities (31 municipalities)"	"one- or two-dwelling buildings"	4363
+"1987"	"SKL04 suburban municipalities to large cities (22 municipalities)"	"multi-dwelling buildings"	356
+"1987"	"SKL04 suburban municipalities to large cities (22 municipalities)"	"one- or two-dwelling buildings"	664
+"1987"	"SKL05 commuter municipalities (51 municipalities)"	"multi-dwelling buildings"	1018
+"1987"	"SKL05 commuter municipalities (51 municipalities)"	"one- or two-dwelling buildings"	1478
+"1987"	"SKL06 tourism and travel industry municipalities (20 municipalities)"	"multi-dwelling buildings"	523
+"1987"	"SKL06 tourism and travel industry municipalities (20 municipalities)"	"one- or two-dwelling buildings"	669
+"1987"	"SKL07 manufacturing municipalities (54 municipalities)"	"multi-dwelling buildings"	958
+"1987"	"SKL07 manufacturing municipalities (54 municipalities)"	"one- or two-dwelling buildings"	1423
+"1987"	"SKL08 sparsely populated municipalities (20 municipalities)"	"multi-dwelling buildings"	254
+"1987"	"SKL08 sparsely populated municipalities (20 municipalities)"	"one- or two-dwelling buildings"	286
+"1987"	"SKL09 municipalities in densely populated regions (35 municipalities)"	"multi-dwelling buildings"	761
+"1987"	"SKL09 municipalities in densely populated regions (35 municipalities)"	"one- or two-dwelling buildings"	1379
+"1987"	"SKL10 municipalities in sparsely populated regions (16 municipalities)"	"multi-dwelling buildings"	902
+"1987"	"SKL10 municipalities in sparsely populated regions (16 municipalities)"	"one- or two-dwelling buildings"	624
+"1988"	"SKL01 metropolitan municipalities (3 municipalities)"	"multi-dwelling buildings"	3087
+"1988"	"SKL01 metropolitan municipalities (3 municipalities)"	"one- or two-dwelling buildings"	958
+"1988"	"SKL02 suburban municipalities (38 municipalities)"	"multi-dwelling buildings"	3657
+"1988"	"SKL02 suburban municipalities (38 municipalities)"	"one- or two-dwelling buildings"	4125
+"1988"	"SKL03 large cities (31 municipalities)"	"multi-dwelling buildings"	6621
+"1988"	"SKL03 large cities (31 municipalities)"	"one- or two-dwelling buildings"	5322
+"1988"	"SKL04 suburban municipalities to large cities (22 municipalities)"	"multi-dwelling buildings"	451
+"1988"	"SKL04 suburban municipalities to large cities (22 municipalities)"	"one- or two-dwelling buildings"	1101
+"1988"	"SKL05 commuter municipalities (51 municipalities)"	"multi-dwelling buildings"	1549
+"1988"	"SKL05 commuter municipalities (51 municipalities)"	"one- or two-dwelling buildings"	2279
+"1988"	"SKL06 tourism and travel industry municipalities (20 municipalities)"	"multi-dwelling buildings"	892
+"1988"	"SKL06 tourism and travel industry municipalities (20 municipalities)"	"one- or two-dwelling buildings"	908
+"1988"	"SKL07 manufacturing municipalities (54 municipalities)"	"multi-dwelling buildings"	1504
+"1988"	"SKL07 manufacturing municipalities (54 municipalities)"	"one- or two-dwelling buildings"	1757
+"1988"	"SKL08 sparsely populated municipalities (20 municipalities)"	"multi-dwelling buildings"	607
+"1988"	"SKL08 sparsely populated municipalities (20 municipalities)"	"one- or two-dwelling buildings"	330
+"1988"	"SKL09 municipalities in densely populated regions (35 municipalities)"	"multi-dwelling buildings"	1611
+"1988"	"SKL09 municipalities in densely populated regions (35 municipalities)"	"one- or two-dwelling buildings"	1991
+"1988"	"SKL10 municipalities in sparsely populated regions (16 municipalities)"	"multi-dwelling buildings"	1115
+"1988"	"SKL10 municipalities in sparsely populated regions (16 municipalities)"	"one- or two-dwelling buildings"	710
+"1989"	"SKL01 metropolitan municipalities (3 municipalities)"	"multi-dwelling buildings"	4099
+"1989"	"SKL01 metropolitan municipalities (3 municipalities)"	"one- or two-dwelling buildings"	891
+"1989"	"SKL02 suburban municipalities (38 municipalities)"	"multi-dwelling buildings"	4544
+"1989"	"SKL02 suburban municipalities (38 municipalities)"	"one- or two-dwelling buildings"	4176
+"1989"	"SKL03 large cities (31 municipalities)"	"multi-dwelling buildings"	8317
+"1989"	"SKL03 large cities (31 municipalities)"	"one- or two-dwelling buildings"	6714
+"1989"	"SKL04 suburban municipalities to large cities (22 municipalities)"	"multi-dwelling buildings"	743
+"1989"	"SKL04 suburban municipalities to large cities (22 municipalities)"	"one- or two-dwelling buildings"	1231
+"1989"	"SKL05 commuter municipalities (51 municipalities)"	"multi-dwelling buildings"	1995
+"1989"	"SKL05 commuter municipalities (51 municipalities)"	"one- or two-dwelling buildings"	2842
+"1989"	"SKL06 tourism and travel industry municipalities (20 municipalities)"	"multi-dwelling buildings"	1314
+"1989"	"SKL06 tourism and travel industry municipalities (20 municipalities)"	"one- or two-dwelling buildings"	1212
+"1989"	"SKL07 manufacturing municipalities (54 municipalities)"	"multi-dwelling buildings"	2130
+"1989"	"SKL07 manufacturing municipalities (54 municipalities)"	"one- or two-dwelling buildings"	2294
+"1989"	"SKL08 sparsely populated municipalities (20 municipalities)"	"multi-dwelling buildings"	532
+"1989"	"SKL08 sparsely populated municipalities (20 municipalities)"	"one- or two-dwelling buildings"	304
+"1989"	"SKL09 municipalities in densely populated regions (35 municipalities)"	"multi-dwelling buildings"	2412
+"1989"	"SKL09 municipalities in densely populated regions (35 municipalities)"	"one- or two-dwelling buildings"	2568
+"1989"	"SKL10 municipalities in sparsely populated regions (16 municipalities)"	"multi-dwelling buildings"	1290
+"1989"	"SKL10 municipalities in sparsely populated regions (16 municipalities)"	"one- or two-dwelling buildings"	796
+"1990"	"SKL01 metropolitan municipalities (3 municipalities)"	"multi-dwelling buildings"	3866
+"1990"	"SKL01 metropolitan municipalities (3 municipalities)"	"one- or two-dwelling buildings"	815
+"1990"	"SKL02 suburban municipalities (38 municipalities)"	"multi-dwelling buildings"	4054
+"1990"	"SKL02 suburban municipalities (38 municipalities)"	"one- or two-dwelling buildings"	4046
+"1990"	"SKL03 large cities (31 municipalities)"	"multi-dwelling buildings"	11326
+"1990"	"SKL03 large cities (31 municipalities)"	"one- or two-dwelling buildings"	7046
+"1990"	"SKL04 suburban municipalities to large cities (22 municipalities)"	"multi-dwelling buildings"	841
+"1990"	"SKL04 suburban municipalities to large cities (22 municipalities)"	"one- or two-dwelling buildings"	1244
+"1990"	"SKL05 commuter municipalities (51 municipalities)"	"multi-dwelling buildings"	2791
+"1990"	"SKL05 commuter municipalities (51 municipalities)"	"one- or two-dwelling buildings"	3164
+"1990"	"SKL06 tourism and travel industry municipalities (20 municipalities)"	"multi-dwelling buildings"	1541
+"1990"	"SKL06 tourism and travel industry municipalities (20 municipalities)"	"one- or two-dwelling buildings"	1264
+"1990"	"SKL07 manufacturing municipalities (54 municipalities)"	"multi-dwelling buildings"	3191
+"1990"	"SKL07 manufacturing municipalities (54 municipalities)"	"one- or two-dwelling buildings"	2976
+"1990"	"SKL08 sparsely populated municipalities (20 municipalities)"	"multi-dwelling buildings"	906
+"1990"	"SKL08 sparsely populated municipalities (20 municipalities)"	"one- or two-dwelling buildings"	414
+"1990"	"SKL09 municipalities in densely populated regions (35 municipalities)"	"multi-dwelling buildings"	2923
+"1990"	"SKL09 municipalities in densely populated regions (35 municipalities)"	"one- or two-dwelling buildings"	2837
+"1990"	"SKL10 municipalities in sparsely populated regions (16 municipalities)"	"multi-dwelling buildings"	2307
+"1990"	"SKL10 municipalities in sparsely populated regions (16 municipalities)"	"one- or two-dwelling buildings"	895
+"1991"	"SKL01 metropolitan municipalities (3 municipalities)"	"multi-dwelling buildings"	4077
+"1991"	"SKL01 metropolitan municipalities (3 municipalities)"	"one- or two-dwelling buildings"	1109
+"1991"	"SKL02 suburban municipalities (38 municipalities)"	"multi-dwelling buildings"	4907
+"1991"	"SKL02 suburban municipalities (38 municipalities)"	"one- or two-dwelling buildings"	4842
+"1991"	"SKL03 large cities (31 municipalities)"	"multi-dwelling buildings"	12577
+"1991"	"SKL03 large cities (31 municipalities)"	"one- or two-dwelling buildings"	8154
+"1991"	"SKL04 suburban municipalities to large cities (22 municipalities)"	"multi-dwelling buildings"	1008
+"1991"	"SKL04 suburban municipalities to large cities (22 municipalities)"	"one- or two-dwelling buildings"	1765
+"1991"	"SKL05 commuter municipalities (51 municipalities)"	"multi-dwelling buildings"	3181
+"1991"	"SKL05 commuter municipalities (51 municipalities)"	"one- or two-dwelling buildings"	3411
+"1991"	"SKL06 tourism and travel industry municipalities (20 municipalities)"	"multi-dwelling buildings"	1757
+"1991"	"SKL06 tourism and travel industry municipalities (20 municipalities)"	"one- or two-dwelling buildings"	1459
+"1991"	"SKL07 manufacturing municipalities (54 municipalities)"	"multi-dwelling buildings"	3756
+"1991"	"SKL07 manufacturing municipalities (54 municipalities)"	"one- or two-dwelling buildings"	2804
+"1991"	"SKL08 sparsely populated municipalities (20 municipalities)"	"multi-dwelling buildings"	1018
+"1991"	"SKL08 sparsely populated municipalities (20 municipalities)"	"one- or two-dwelling buildings"	478
+"1991"	"SKL09 municipalities in densely populated regions (35 municipalities)"	"multi-dwelling buildings"	3639
+"1991"	"SKL09 municipalities in densely populated regions (35 municipalities)"	"one- or two-dwelling buildings"	3637
+"1991"	"SKL10 municipalities in sparsely populated regions (16 municipalities)"	"multi-dwelling buildings"	2281
+"1991"	"SKL10 municipalities in sparsely populated regions (16 municipalities)"	"one- or two-dwelling buildings"	1026
+"1992"	"SKL01 metropolitan municipalities (3 municipalities)"	"multi-dwelling buildings"	4427
+"1992"	"SKL01 metropolitan municipalities (3 municipalities)"	"one- or two-dwelling buildings"	827
+"1992"	"SKL02 suburban municipalities (38 municipalities)"	"multi-dwelling buildings"	5334
+"1992"	"SKL02 suburban municipalities (38 municipalities)"	"one- or two-dwelling buildings"	4177
+"1992"	"SKL03 large cities (31 municipalities)"	"multi-dwelling buildings"	14089
+"1992"	"SKL03 large cities (31 municipalities)"	"one- or two-dwelling buildings"	5677
+"1992"	"SKL04 suburban municipalities to large cities (22 municipalities)"	"multi-dwelling buildings"	1210
+"1992"	"SKL04 suburban municipalities to large cities (22 municipalities)"	"one- or two-dwelling buildings"	1171
+"1992"	"SKL05 commuter municipalities (51 municipalities)"	"multi-dwelling buildings"	2981
+"1992"	"SKL05 commuter municipalities (51 municipalities)"	"one- or two-dwelling buildings"	1953
+"1992"	"SKL06 tourism and travel industry municipalities (20 municipalities)"	"multi-dwelling buildings"	1119
+"1992"	"SKL06 tourism and travel industry municipalities (20 municipalities)"	"one- or two-dwelling buildings"	1022
+"1992"	"SKL07 manufacturing municipalities (54 municipalities)"	"multi-dwelling buildings"	2680
+"1992"	"SKL07 manufacturing municipalities (54 municipalities)"	"one- or two-dwelling buildings"	1577
+"1992"	"SKL08 sparsely populated municipalities (20 municipalities)"	"multi-dwelling buildings"	781
+"1992"	"SKL08 sparsely populated municipalities (20 municipalities)"	"one- or two-dwelling buildings"	175
+"1992"	"SKL09 municipalities in densely populated regions (35 municipalities)"	"multi-dwelling buildings"	3056
+"1992"	"SKL09 municipalities in densely populated regions (35 municipalities)"	"one- or two-dwelling buildings"	2227
+"1992"	"SKL10 municipalities in sparsely populated regions (16 municipalities)"	"multi-dwelling buildings"	2110
+"1992"	"SKL10 municipalities in sparsely populated regions (16 municipalities)"	"one- or two-dwelling buildings"	726
+"1993"	"SKL01 metropolitan municipalities (3 municipalities)"	"multi-dwelling buildings"	3603
+"1993"	"SKL01 metropolitan municipalities (3 municipalities)"	"one- or two-dwelling buildings"	777
+"1993"	"SKL02 suburban municipalities (38 municipalities)"	"multi-dwelling buildings"	5400
+"1993"	"SKL02 suburban municipalities (38 municipalities)"	"one- or two-dwelling buildings"	2674
+"1993"	"SKL03 large cities (31 municipalities)"	"multi-dwelling buildings"	9006
+"1993"	"SKL03 large cities (31 municipalities)"	"one- or two-dwelling buildings"	2663
+"1993"	"SKL04 suburban municipalities to large cities (22 municipalities)"	"multi-dwelling buildings"	430
+"1993"	"SKL04 suburban municipalities to large cities (22 municipalities)"	"one- or two-dwelling buildings"	414
+"1993"	"SKL05 commuter municipalities (51 municipalities)"	"multi-dwelling buildings"	1547
+"1993"	"SKL05 commuter municipalities (51 municipalities)"	"one- or two-dwelling buildings"	842
+"1993"	"SKL06 tourism and travel industry municipalities (20 municipalities)"	"multi-dwelling buildings"	733
+"1993"	"SKL06 tourism and travel industry municipalities (20 municipalities)"	"one- or two-dwelling buildings"	324
+"1993"	"SKL07 manufacturing municipalities (54 municipalities)"	"multi-dwelling buildings"	1414
+"1993"	"SKL07 manufacturing municipalities (54 municipalities)"	"one- or two-dwelling buildings"	447
+"1993"	"SKL08 sparsely populated municipalities (20 municipalities)"	"multi-dwelling buildings"	191
+"1993"	"SKL08 sparsely populated municipalities (20 municipalities)"	"one- or two-dwelling buildings"	79
+"1993"	"SKL09 municipalities in densely populated regions (35 municipalities)"	"multi-dwelling buildings"	2076
+"1993"	"SKL09 municipalities in densely populated regions (35 municipalities)"	"one- or two-dwelling buildings"	849
+"1993"	"SKL10 municipalities in sparsely populated regions (16 municipalities)"	"multi-dwelling buildings"	1288
+"1993"	"SKL10 municipalities in sparsely populated regions (16 municipalities)"	"one- or two-dwelling buildings"	331
+"1994"	"SKL01 metropolitan municipalities (3 municipalities)"	"multi-dwelling buildings"	3007
+"1994"	"SKL01 metropolitan municipalities (3 municipalities)"	"one- or two-dwelling buildings"	354
+"1994"	"SKL02 suburban municipalities (38 municipalities)"	"multi-dwelling buildings"	2887
+"1994"	"SKL02 suburban municipalities (38 municipalities)"	"one- or two-dwelling buildings"	1765
+"1994"	"SKL03 large cities (31 municipalities)"	"multi-dwelling buildings"	5208
+"1994"	"SKL03 large cities (31 municipalities)"	"one- or two-dwelling buildings"	1787
+"1994"	"SKL04 suburban municipalities to large cities (22 municipalities)"	"multi-dwelling buildings"	155
+"1994"	"SKL04 suburban municipalities to large cities (22 municipalities)"	"one- or two-dwelling buildings"	124
+"1994"	"SKL05 commuter municipalities (51 municipalities)"	"multi-dwelling buildings"	1533
+"1994"	"SKL05 commuter municipalities (51 municipalities)"	"one- or two-dwelling buildings"	245
+"1994"	"SKL06 tourism and travel industry municipalities (20 municipalities)"	"multi-dwelling buildings"	399
+"1994"	"SKL06 tourism and travel industry municipalities (20 municipalities)"	"one- or two-dwelling buildings"	175
+"1994"	"SKL07 manufacturing municipalities (54 municipalities)"	"multi-dwelling buildings"	1051
+"1994"	"SKL07 manufacturing municipalities (54 municipalities)"	"one- or two-dwelling buildings"	220
+"1994"	"SKL08 sparsely populated municipalities (20 municipalities)"	"multi-dwelling buildings"	284
+"1994"	"SKL08 sparsely populated municipalities (20 municipalities)"	"one- or two-dwelling buildings"	74
+"1994"	"SKL09 municipalities in densely populated regions (35 municipalities)"	"multi-dwelling buildings"	1301
+"1994"	"SKL09 municipalities in densely populated regions (35 municipalities)"	"one- or two-dwelling buildings"	394
+"1994"	"SKL10 municipalities in sparsely populated regions (16 municipalities)"	"multi-dwelling buildings"	559
+"1994"	"SKL10 municipalities in sparsely populated regions (16 municipalities)"	"one- or two-dwelling buildings"	108
+"1995"	"SKL01 metropolitan municipalities (3 municipalities)"	"multi-dwelling buildings"	1010
+"1995"	"SKL01 metropolitan municipalities (3 municipalities)"	"one- or two-dwelling buildings"	461
+"1995"	"SKL02 suburban municipalities (38 municipalities)"	"multi-dwelling buildings"	1766
+"1995"	"SKL02 suburban municipalities (38 municipalities)"	"one- or two-dwelling buildings"	1406
+"1995"	"SKL03 large cities (31 municipalities)"	"multi-dwelling buildings"	3888
+"1995"	"SKL03 large cities (31 municipalities)"	"one- or two-dwelling buildings"	981
+"1995"	"SKL04 suburban municipalities to large cities (22 municipalities)"	"multi-dwelling buildings"	179
+"1995"	"SKL04 suburban municipalities to large cities (22 municipalities)"	"one- or two-dwelling buildings"	102
+"1995"	"SKL05 commuter municipalities (51 municipalities)"	"multi-dwelling buildings"	481
+"1995"	"SKL05 commuter municipalities (51 municipalities)"	"one- or two-dwelling buildings"	220
+"1995"	"SKL06 tourism and travel industry municipalities (20 municipalities)"	"multi-dwelling buildings"	325
+"1995"	"SKL06 tourism and travel industry municipalities (20 municipalities)"	"one- or two-dwelling buildings"	108
+"1995"	"SKL07 manufacturing municipalities (54 municipalities)"	"multi-dwelling buildings"	411
+"1995"	"SKL07 manufacturing municipalities (54 municipalities)"	"one- or two-dwelling buildings"	149
+"1995"	"SKL08 sparsely populated municipalities (20 municipalities)"	"multi-dwelling buildings"	121
+"1995"	"SKL08 sparsely populated municipalities (20 municipalities)"	"one- or two-dwelling buildings"	42
+"1995"	"SKL09 municipalities in densely populated regions (35 municipalities)"	"multi-dwelling buildings"	625
+"1995"	"SKL09 municipalities in densely populated regions (35 municipalities)"	"one- or two-dwelling buildings"	185
+"1995"	"SKL10 municipalities in sparsely populated regions (16 municipalities)"	"multi-dwelling buildings"	146
+"1995"	"SKL10 municipalities in sparsely populated regions (16 municipalities)"	"one- or two-dwelling buildings"	72
+"1996"	"SKL01 metropolitan municipalities (3 municipalities)"	"multi-dwelling buildings"	2227
+"1996"	"SKL01 metropolitan municipalities (3 municipalities)"	"one- or two-dwelling buildings"	567
+"1996"	"SKL02 suburban municipalities (38 municipalities)"	"multi-dwelling buildings"	1384
+"1996"	"SKL02 suburban municipalities (38 municipalities)"	"one- or two-dwelling buildings"	1444
+"1996"	"SKL03 large cities (31 municipalities)"	"multi-dwelling buildings"	3942
+"1996"	"SKL03 large cities (31 municipalities)"	"one- or two-dwelling buildings"	918
+"1996"	"SKL04 suburban municipalities to large cities (22 municipalities)"	"multi-dwelling buildings"	60
+"1996"	"SKL04 suburban municipalities to large cities (22 municipalities)"	"one- or two-dwelling buildings"	110
+"1996"	"SKL05 commuter municipalities (51 municipalities)"	"multi-dwelling buildings"	431
+"1996"	"SKL05 commuter municipalities (51 municipalities)"	"one- or two-dwelling buildings"	130
+"1996"	"SKL06 tourism and travel industry municipalities (20 municipalities)"	"multi-dwelling buildings"	141
+"1996"	"SKL06 tourism and travel industry municipalities (20 municipalities)"	"one- or two-dwelling buildings"	72
+"1996"	"SKL07 manufacturing municipalities (54 municipalities)"	"multi-dwelling buildings"	343
+"1996"	"SKL07 manufacturing municipalities (54 municipalities)"	"one- or two-dwelling buildings"	149
+"1996"	"SKL08 sparsely populated municipalities (20 municipalities)"	"multi-dwelling buildings"	59
+"1996"	"SKL08 sparsely populated municipalities (20 municipalities)"	"one- or two-dwelling buildings"	25
+"1996"	"SKL09 municipalities in densely populated regions (35 municipalities)"	"multi-dwelling buildings"	637
+"1996"	"SKL09 municipalities in densely populated regions (35 municipalities)"	"one- or two-dwelling buildings"	212
+"1996"	"SKL10 municipalities in sparsely populated regions (16 municipalities)"	"multi-dwelling buildings"	166
+"1996"	"SKL10 municipalities in sparsely populated regions (16 municipalities)"	"one- or two-dwelling buildings"	68
+"1997"	"SKL01 metropolitan municipalities (3 municipalities)"	"multi-dwelling buildings"	2269
+"1997"	"SKL01 metropolitan municipalities (3 municipalities)"	"one- or two-dwelling buildings"	462
+"1997"	"SKL02 suburban municipalities (38 municipalities)"	"multi-dwelling buildings"	967
+"1997"	"SKL02 suburban municipalities (38 municipalities)"	"one- or two-dwelling buildings"	1691
+"1997"	"SKL03 large cities (31 municipalities)"	"multi-dwelling buildings"	4731
+"1997"	"SKL03 large cities (31 municipalities)"	"one- or two-dwelling buildings"	952
+"1997"	"SKL04 suburban municipalities to large cities (22 municipalities)"	"multi-dwelling buildings"	191
+"1997"	"SKL04 suburban municipalities to large cities (22 municipalities)"	"one- or two-dwelling buildings"	82
+"1997"	"SKL05 commuter municipalities (51 municipalities)"	"multi-dwelling buildings"	245
+"1997"	"SKL05 commuter municipalities (51 municipalities)"	"one- or two-dwelling buildings"	165
+"1997"	"SKL06 tourism and travel industry municipalities (20 municipalities)"	"multi-dwelling buildings"	177
+"1997"	"SKL06 tourism and travel industry municipalities (20 municipalities)"	"one- or two-dwelling buildings"	73
+"1997"	"SKL07 manufacturing municipalities (54 municipalities)"	"multi-dwelling buildings"	204
+"1997"	"SKL07 manufacturing municipalities (54 municipalities)"	"one- or two-dwelling buildings"	119
+"1997"	"SKL08 sparsely populated municipalities (20 municipalities)"	"multi-dwelling buildings"	5
+"1997"	"SKL08 sparsely populated municipalities (20 municipalities)"	"one- or two-dwelling buildings"	44
+"1997"	"SKL09 municipalities in densely populated regions (35 municipalities)"	"multi-dwelling buildings"	328
+"1997"	"SKL09 municipalities in densely populated regions (35 municipalities)"	"one- or two-dwelling buildings"	236
+"1997"	"SKL10 municipalities in sparsely populated regions (16 municipalities)"	"multi-dwelling buildings"	22
+"1997"	"SKL10 municipalities in sparsely populated regions (16 municipalities)"	"one- or two-dwelling buildings"	44
+"1998"	"SKL01 metropolitan municipalities (3 municipalities)"	"multi-dwelling buildings"	1686
+"1998"	"SKL01 metropolitan municipalities (3 municipalities)"	"one- or two-dwelling buildings"	773
+"1998"	"SKL02 suburban municipalities (38 municipalities)"	"multi-dwelling buildings"	1365
+"1998"	"SKL02 suburban municipalities (38 municipalities)"	"one- or two-dwelling buildings"	1767
+"1998"	"SKL03 large cities (31 municipalities)"	"multi-dwelling buildings"	3010
+"1998"	"SKL03 large cities (31 municipalities)"	"one- or two-dwelling buildings"	950
+"1998"	"SKL04 suburban municipalities to large cities (22 municipalities)"	"multi-dwelling buildings"	106
+"1998"	"SKL04 suburban municipalities to large cities (22 municipalities)"	"one- or two-dwelling buildings"	123
+"1998"	"SKL05 commuter municipalities (51 municipalities)"	"multi-dwelling buildings"	355
+"1998"	"SKL05 commuter municipalities (51 municipalities)"	"one- or two-dwelling buildings"	157
+"1998"	"SKL06 tourism and travel industry municipalities (20 municipalities)"	"multi-dwelling buildings"	139
+"1998"	"SKL06 tourism and travel industry municipalities (20 municipalities)"	"one- or two-dwelling buildings"	111
+"1998"	"SKL07 manufacturing municipalities (54 municipalities)"	"multi-dwelling buildings"	153
+"1998"	"SKL07 manufacturing municipalities (54 municipalities)"	"one- or two-dwelling buildings"	131
+"1998"	"SKL08 sparsely populated municipalities (20 municipalities)"	"multi-dwelling buildings"	74
+"1998"	"SKL08 sparsely populated municipalities (20 municipalities)"	"one- or two-dwelling buildings"	33
+"1998"	"SKL09 municipalities in densely populated regions (35 municipalities)"	"multi-dwelling buildings"	237
+"1998"	"SKL09 municipalities in densely populated regions (35 municipalities)"	"one- or two-dwelling buildings"	193
+"1998"	"SKL10 municipalities in sparsely populated regions (16 municipalities)"	"multi-dwelling buildings"	54
+"1998"	"SKL10 municipalities in sparsely populated regions (16 municipalities)"	"one- or two-dwelling buildings"	42
+"1999"	"SKL01 metropolitan municipalities (3 municipalities)"	"multi-dwelling buildings"	1855
+"1999"	"SKL01 metropolitan municipalities (3 municipalities)"	"one- or two-dwelling buildings"	685
+"1999"	"SKL02 suburban municipalities (38 municipalities)"	"multi-dwelling buildings"	1488
+"1999"	"SKL02 suburban municipalities (38 municipalities)"	"one- or two-dwelling buildings"	2151
+"1999"	"SKL03 large cities (31 municipalities)"	"multi-dwelling buildings"	2412
+"1999"	"SKL03 large cities (31 municipalities)"	"one- or two-dwelling buildings"	1297
+"1999"	"SKL04 suburban municipalities to large cities (22 municipalities)"	"multi-dwelling buildings"	55
+"1999"	"SKL04 suburban municipalities to large cities (22 municipalities)"	"one- or two-dwelling buildings"	148
+"1999"	"SKL05 commuter municipalities (51 municipalities)"	"multi-dwelling buildings"	269
+"1999"	"SKL05 commuter municipalities (51 municipalities)"	"one- or two-dwelling buildings"	283
+"1999"	"SKL06 tourism and travel industry municipalities (20 municipalities)"	"multi-dwelling buildings"	106
+"1999"	"SKL06 tourism and travel industry municipalities (20 municipalities)"	"one- or two-dwelling buildings"	91
+"1999"	"SKL07 manufacturing municipalities (54 municipalities)"	"multi-dwelling buildings"	155
+"1999"	"SKL07 manufacturing municipalities (54 municipalities)"	"one- or two-dwelling buildings"	83
+"1999"	"SKL08 sparsely populated municipalities (20 municipalities)"	"multi-dwelling buildings"	26
+"1999"	"SKL08 sparsely populated municipalities (20 municipalities)"	"one- or two-dwelling buildings"	25
+"1999"	"SKL09 municipalities in densely populated regions (35 municipalities)"	"multi-dwelling buildings"	264
+"1999"	"SKL09 municipalities in densely populated regions (35 municipalities)"	"one- or two-dwelling buildings"	259
+"1999"	"SKL10 municipalities in sparsely populated regions (16 municipalities)"	"multi-dwelling buildings"	21
+"1999"	"SKL10 municipalities in sparsely populated regions (16 municipalities)"	"one- or two-dwelling buildings"	39
+"2000"	"SKL01 metropolitan municipalities (3 municipalities)"	"multi-dwelling buildings"	1687
+"2000"	"SKL01 metropolitan municipalities (3 municipalities)"	"one- or two-dwelling buildings"	869
+"2000"	"SKL02 suburban municipalities (38 municipalities)"	"multi-dwelling buildings"	1712
+"2000"	"SKL02 suburban municipalities (38 municipalities)"	"one- or two-dwelling buildings"	2544
+"2000"	"SKL03 large cities (31 municipalities)"	"multi-dwelling buildings"	2787
+"2000"	"SKL03 large cities (31 municipalities)"	"one- or two-dwelling buildings"	1239
+"2000"	"SKL04 suburban municipalities to large cities (22 municipalities)"	"multi-dwelling buildings"	133
+"2000"	"SKL04 suburban municipalities to large cities (22 municipalities)"	"one- or two-dwelling buildings"	127
+"2000"	"SKL05 commuter municipalities (51 municipalities)"	"multi-dwelling buildings"	221
+"2000"	"SKL05 commuter municipalities (51 municipalities)"	"one- or two-dwelling buildings"	264
+"2000"	"SKL06 tourism and travel industry municipalities (20 municipalities)"	"multi-dwelling buildings"	174
+"2000"	"SKL06 tourism and travel industry municipalities (20 municipalities)"	"one- or two-dwelling buildings"	105
+"2000"	"SKL07 manufacturing municipalities (54 municipalities)"	"multi-dwelling buildings"	215
+"2000"	"SKL07 manufacturing municipalities (54 municipalities)"	"one- or two-dwelling buildings"	128
+"2000"	"SKL08 sparsely populated municipalities (20 municipalities)"	"multi-dwelling buildings"	32
+"2000"	"SKL08 sparsely populated municipalities (20 municipalities)"	"one- or two-dwelling buildings"	27
+"2000"	"SKL09 municipalities in densely populated regions (35 municipalities)"	"multi-dwelling buildings"	412
+"2000"	"SKL09 municipalities in densely populated regions (35 municipalities)"	"one- or two-dwelling buildings"	231
+"2000"	"SKL10 municipalities in sparsely populated regions (16 municipalities)"	"multi-dwelling buildings"	32
+"2000"	"SKL10 municipalities in sparsely populated regions (16 municipalities)"	"one- or two-dwelling buildings"	45
+"2001"	"SKL01 metropolitan municipalities (3 municipalities)"	"multi-dwelling buildings"	1665
+"2001"	"SKL01 metropolitan municipalities (3 municipalities)"	"one- or two-dwelling buildings"	762
+"2001"	"SKL02 suburban municipalities (38 municipalities)"	"multi-dwelling buildings"	1950
+"2001"	"SKL02 suburban municipalities (38 municipalities)"	"one- or two-dwelling buildings"	3198
+"2001"	"SKL03 large cities (31 municipalities)"	"multi-dwelling buildings"	2815
+"2001"	"SKL03 large cities (31 municipalities)"	"one- or two-dwelling buildings"	2128
+"2001"	"SKL04 suburban municipalities to large cities (22 municipalities)"	"multi-dwelling buildings"	137
+"2001"	"SKL04 suburban municipalities to large cities (22 municipalities)"	"one- or two-dwelling buildings"	220
+"2001"	"SKL05 commuter municipalities (51 municipalities)"	"multi-dwelling buildings"	303
+"2001"	"SKL05 commuter municipalities (51 municipalities)"	"one- or two-dwelling buildings"	520
+"2001"	"SKL06 tourism and travel industry municipalities (20 municipalities)"	"multi-dwelling buildings"	212
+"2001"	"SKL06 tourism and travel industry municipalities (20 municipalities)"	"one- or two-dwelling buildings"	302
+"2001"	"SKL07 manufacturing municipalities (54 municipalities)"	"multi-dwelling buildings"	260
+"2001"	"SKL07 manufacturing municipalities (54 municipalities)"	"one- or two-dwelling buildings"	256
+"2001"	"SKL08 sparsely populated municipalities (20 municipalities)"	"multi-dwelling buildings"	12
+"2001"	"SKL08 sparsely populated municipalities (20 municipalities)"	"one- or two-dwelling buildings"	39
+"2001"	"SKL09 municipalities in densely populated regions (35 municipalities)"	"multi-dwelling buildings"	172
+"2001"	"SKL09 municipalities in densely populated regions (35 municipalities)"	"one- or two-dwelling buildings"	386
+"2001"	"SKL10 municipalities in sparsely populated regions (16 municipalities)"	"multi-dwelling buildings"	1
+"2001"	"SKL10 municipalities in sparsely populated regions (16 municipalities)"	"one- or two-dwelling buildings"	73
+"2002"	"SKL01 metropolitan municipalities (3 municipalities)"	"multi-dwelling buildings"	4150
+"2002"	"SKL01 metropolitan municipalities (3 municipalities)"	"one- or two-dwelling buildings"	525
+"2002"	"SKL02 suburban municipalities (38 municipalities)"	"multi-dwelling buildings"	2458
+"2002"	"SKL02 suburban municipalities (38 municipalities)"	"one- or two-dwelling buildings"	2670
+"2002"	"SKL03 large cities (31 municipalities)"	"multi-dwelling buildings"	4819
+"2002"	"SKL03 large cities (31 municipalities)"	"one- or two-dwelling buildings"	2234
+"2002"	"SKL04 suburban municipalities to large cities (22 municipalities)"	"multi-dwelling buildings"	154
+"2002"	"SKL04 suburban municipalities to large cities (22 municipalities)"	"one- or two-dwelling buildings"	284
+"2002"	"SKL05 commuter municipalities (51 municipalities)"	"multi-dwelling buildings"	430
+"2002"	"SKL05 commuter municipalities (51 municipalities)"	"one- or two-dwelling buildings"	635
+"2002"	"SKL06 tourism and travel industry municipalities (20 municipalities)"	"multi-dwelling buildings"	218
+"2002"	"SKL06 tourism and travel industry municipalities (20 municipalities)"	"one- or two-dwelling buildings"	202
+"2002"	"SKL07 manufacturing municipalities (54 municipalities)"	"multi-dwelling buildings"	145
+"2002"	"SKL07 manufacturing municipalities (54 municipalities)"	"one- or two-dwelling buildings"	188
+"2002"	"SKL08 sparsely populated municipalities (20 municipalities)"	"multi-dwelling buildings"	9
+"2002"	"SKL08 sparsely populated municipalities (20 municipalities)"	"one- or two-dwelling buildings"	45
+"2002"	"SKL09 municipalities in densely populated regions (35 municipalities)"	"multi-dwelling buildings"	261
+"2002"	"SKL09 municipalities in densely populated regions (35 municipalities)"	"one- or two-dwelling buildings"	400
+"2002"	"SKL10 municipalities in sparsely populated regions (16 municipalities)"	"multi-dwelling buildings"	70
+"2002"	"SKL10 municipalities in sparsely populated regions (16 municipalities)"	"one- or two-dwelling buildings"	44
+"2003"	"SKL01 metropolitan municipalities (3 municipalities)"	"multi-dwelling buildings"	3638
+"2003"	"SKL01 metropolitan municipalities (3 municipalities)"	"one- or two-dwelling buildings"	643
+"2003"	"SKL02 suburban municipalities (38 municipalities)"	"multi-dwelling buildings"	2517
+"2003"	"SKL02 suburban municipalities (38 municipalities)"	"one- or two-dwelling buildings"	2808
+"2003"	"SKL03 large cities (31 municipalities)"	"multi-dwelling buildings"	4257
+"2003"	"SKL03 large cities (31 municipalities)"	"one- or two-dwelling buildings"	2201
+"2003"	"SKL04 suburban municipalities to large cities (22 municipalities)"	"multi-dwelling buildings"	202
+"2003"	"SKL04 suburban municipalities to large cities (22 municipalities)"	"one- or two-dwelling buildings"	672
+"2003"	"SKL05 commuter municipalities (51 municipalities)"	"multi-dwelling buildings"	469
+"2003"	"SKL05 commuter municipalities (51 municipalities)"	"one- or two-dwelling buildings"	699
+"2003"	"SKL06 tourism and travel industry municipalities (20 municipalities)"	"multi-dwelling buildings"	64
+"2003"	"SKL06 tourism and travel industry municipalities (20 municipalities)"	"one- or two-dwelling buildings"	209
+"2003"	"SKL07 manufacturing municipalities (54 municipalities)"	"multi-dwelling buildings"	264
+"2003"	"SKL07 manufacturing municipalities (54 municipalities)"	"one- or two-dwelling buildings"	195
+"2003"	"SKL08 sparsely populated municipalities (20 municipalities)"	"multi-dwelling buildings"	19
+"2003"	"SKL08 sparsely populated municipalities (20 municipalities)"	"one- or two-dwelling buildings"	39
+"2003"	"SKL09 municipalities in densely populated regions (35 municipalities)"	"multi-dwelling buildings"	263
+"2003"	"SKL09 municipalities in densely populated regions (35 municipalities)"	"one- or two-dwelling buildings"	611
+"2003"	"SKL10 municipalities in sparsely populated regions (16 municipalities)"	"multi-dwelling buildings"	150
+"2003"	"SKL10 municipalities in sparsely populated regions (16 municipalities)"	"one- or two-dwelling buildings"	66
+"2004"	"SKL01 metropolitan municipalities (3 municipalities)"	"multi-dwelling buildings"	3546
+"2004"	"SKL01 metropolitan municipalities (3 municipalities)"	"one- or two-dwelling buildings"	1263
+"2004"	"SKL02 suburban municipalities (38 municipalities)"	"multi-dwelling buildings"	3782
+"2004"	"SKL02 suburban municipalities (38 municipalities)"	"one- or two-dwelling buildings"	3165
+"2004"	"SKL03 large cities (31 municipalities)"	"multi-dwelling buildings"	4618
+"2004"	"SKL03 large cities (31 municipalities)"	"one- or two-dwelling buildings"	3308
+"2004"	"SKL04 suburban municipalities to large cities (22 municipalities)"	"multi-dwelling buildings"	215
+"2004"	"SKL04 suburban municipalities to large cities (22 municipalities)"	"one- or two-dwelling buildings"	945
+"2004"	"SKL05 commuter municipalities (51 municipalities)"	"multi-dwelling buildings"	368
+"2004"	"SKL05 commuter municipalities (51 municipalities)"	"one- or two-dwelling buildings"	824
+"2004"	"SKL06 tourism and travel industry municipalities (20 municipalities)"	"multi-dwelling buildings"	433
+"2004"	"SKL06 tourism and travel industry municipalities (20 municipalities)"	"one- or two-dwelling buildings"	512
+"2004"	"SKL07 manufacturing municipalities (54 municipalities)"	"multi-dwelling buildings"	264
+"2004"	"SKL07 manufacturing municipalities (54 municipalities)"	"one- or two-dwelling buildings"	422
+"2004"	"SKL08 sparsely populated municipalities (20 municipalities)"	"multi-dwelling buildings"	72
+"2004"	"SKL08 sparsely populated municipalities (20 municipalities)"	"one- or two-dwelling buildings"	54
+"2004"	"SKL09 municipalities in densely populated regions (35 municipalities)"	"multi-dwelling buildings"	218
+"2004"	"SKL09 municipalities in densely populated regions (35 municipalities)"	"one- or two-dwelling buildings"	960
+"2004"	"SKL10 municipalities in sparsely populated regions (16 municipalities)"	"multi-dwelling buildings"	189
+"2004"	"SKL10 municipalities in sparsely populated regions (16 municipalities)"	"one- or two-dwelling buildings"	125
+"2005"	"SKL01 metropolitan municipalities (3 municipalities)"	"multi-dwelling buildings"	3396
+"2005"	"SKL01 metropolitan municipalities (3 municipalities)"	"one- or two-dwelling buildings"	876
+"2005"	"SKL02 suburban municipalities (38 municipalities)"	"multi-dwelling buildings"	2657
+"2005"	"SKL02 suburban municipalities (38 municipalities)"	"one- or two-dwelling buildings"	2939
+"2005"	"SKL03 large cities (31 municipalities)"	"multi-dwelling buildings"	4741
+"2005"	"SKL03 large cities (31 municipalities)"	"one- or two-dwelling buildings"	3090
+"2005"	"SKL04 suburban municipalities to large cities (22 municipalities)"	"multi-dwelling buildings"	204
+"2005"	"SKL04 suburban municipalities to large cities (22 municipalities)"	"one- or two-dwelling buildings"	745
+"2005"	"SKL05 commuter municipalities (51 municipalities)"	"multi-dwelling buildings"	483
+"2005"	"SKL05 commuter municipalities (51 municipalities)"	"one- or two-dwelling buildings"	908
+"2005"	"SKL06 tourism and travel industry municipalities (20 municipalities)"	"multi-dwelling buildings"	418
+"2005"	"SKL06 tourism and travel industry municipalities (20 municipalities)"	"one- or two-dwelling buildings"	360
+"2005"	"SKL07 manufacturing municipalities (54 municipalities)"	"multi-dwelling buildings"	282
+"2005"	"SKL07 manufacturing municipalities (54 municipalities)"	"one- or two-dwelling buildings"	372
+"2005"	"SKL08 sparsely populated municipalities (20 municipalities)"	"multi-dwelling buildings"	24
+"2005"	"SKL08 sparsely populated municipalities (20 municipalities)"	"one- or two-dwelling buildings"	34
+"2005"	"SKL09 municipalities in densely populated regions (35 municipalities)"	"multi-dwelling buildings"	690
+"2005"	"SKL09 municipalities in densely populated regions (35 municipalities)"	"one- or two-dwelling buildings"	676
+"2005"	"SKL10 municipalities in sparsely populated regions (16 municipalities)"	"multi-dwelling buildings"	97
+"2005"	"SKL10 municipalities in sparsely populated regions (16 municipalities)"	"one- or two-dwelling buildings"	76
+"2006"	"SKL01 metropolitan municipalities (3 municipalities)"	"multi-dwelling buildings"	6694
+"2006"	"SKL01 metropolitan municipalities (3 municipalities)"	"one- or two-dwelling buildings"	650
+"2006"	"SKL02 suburban municipalities (38 municipalities)"	"multi-dwelling buildings"	3535
+"2006"	"SKL02 suburban municipalities (38 municipalities)"	"one- or two-dwelling buildings"	2865
+"2006"	"SKL03 large cities (31 municipalities)"	"multi-dwelling buildings"	6177
+"2006"	"SKL03 large cities (31 municipalities)"	"one- or two-dwelling buildings"	3661
+"2006"	"SKL04 suburban municipalities to large cities (22 municipalities)"	"multi-dwelling buildings"	333
+"2006"	"SKL04 suburban municipalities to large cities (22 municipalities)"	"one- or two-dwelling buildings"	814
+"2006"	"SKL05 commuter municipalities (51 municipalities)"	"multi-dwelling buildings"	690
+"2006"	"SKL05 commuter municipalities (51 municipalities)"	"one- or two-dwelling buildings"	956
+"2006"	"SKL06 tourism and travel industry municipalities (20 municipalities)"	"multi-dwelling buildings"	303
+"2006"	"SKL06 tourism and travel industry municipalities (20 municipalities)"	"one- or two-dwelling buildings"	529
+"2006"	"SKL07 manufacturing municipalities (54 municipalities)"	"multi-dwelling buildings"	277
+"2006"	"SKL07 manufacturing municipalities (54 municipalities)"	"one- or two-dwelling buildings"	473
+"2006"	"SKL08 sparsely populated municipalities (20 municipalities)"	"multi-dwelling buildings"	48
+"2006"	"SKL08 sparsely populated municipalities (20 municipalities)"	"one- or two-dwelling buildings"	33
+"2006"	"SKL09 municipalities in densely populated regions (35 municipalities)"	"multi-dwelling buildings"	494
+"2006"	"SKL09 municipalities in densely populated regions (35 municipalities)"	"one- or two-dwelling buildings"	925
+"2006"	"SKL10 municipalities in sparsely populated regions (16 municipalities)"	"multi-dwelling buildings"	245
+"2006"	"SKL10 municipalities in sparsely populated regions (16 municipalities)"	"one- or two-dwelling buildings"	130
+"2007"	"SKL01 metropolitan municipalities (3 municipalities)"	"multi-dwelling buildings"	5252
+"2007"	"SKL01 metropolitan municipalities (3 municipalities)"	"one- or two-dwelling buildings"	1097
+"2007"	"SKL02 suburban municipalities (38 municipalities)"	"multi-dwelling buildings"	4119
+"2007"	"SKL02 suburban municipalities (38 municipalities)"	"one- or two-dwelling buildings"	3183
+"2007"	"SKL03 large cities (31 municipalities)"	"multi-dwelling buildings"	6569
+"2007"	"SKL03 large cities (31 municipalities)"	"one- or two-dwelling buildings"	3841
+"2007"	"SKL04 suburban municipalities to large cities (22 municipalities)"	"multi-dwelling buildings"	359
+"2007"	"SKL04 suburban municipalities to large cities (22 municipalities)"	"one- or two-dwelling buildings"	893
+"2007"	"SKL05 commuter municipalities (51 municipalities)"	"multi-dwelling buildings"	607
+"2007"	"SKL05 commuter municipalities (51 municipalities)"	"one- or two-dwelling buildings"	963
+"2007"	"SKL06 tourism and travel industry municipalities (20 municipalities)"	"multi-dwelling buildings"	260
+"2007"	"SKL06 tourism and travel industry municipalities (20 municipalities)"	"one- or two-dwelling buildings"	428
+"2007"	"SKL07 manufacturing municipalities (54 municipalities)"	"multi-dwelling buildings"	318
+"2007"	"SKL07 manufacturing municipalities (54 municipalities)"	"one- or two-dwelling buildings"	483
+"2007"	"SKL08 sparsely populated municipalities (20 municipalities)"	"multi-dwelling buildings"	18
+"2007"	"SKL08 sparsely populated municipalities (20 municipalities)"	"one- or two-dwelling buildings"	59
+"2007"	"SKL09 municipalities in densely populated regions (35 municipalities)"	"multi-dwelling buildings"	711
+"2007"	"SKL09 municipalities in densely populated regions (35 municipalities)"	"one- or two-dwelling buildings"	942
+"2007"	"SKL10 municipalities in sparsely populated regions (16 municipalities)"	"multi-dwelling buildings"	231
+"2007"	"SKL10 municipalities in sparsely populated regions (16 municipalities)"	"one- or two-dwelling buildings"	194
+"2008"	"SKL01 metropolitan municipalities (3 municipalities)"	"multi-dwelling buildings"	7631
+"2008"	"SKL01 metropolitan municipalities (3 municipalities)"	"one- or two-dwelling buildings"	935
+"2008"	"SKL02 suburban municipalities (38 municipalities)"	"multi-dwelling buildings"	3013
+"2008"	"SKL02 suburban municipalities (38 municipalities)"	"one- or two-dwelling buildings"	3253
+"2008"	"SKL03 large cities (31 municipalities)"	"multi-dwelling buildings"	6295
+"2008"	"SKL03 large cities (31 municipalities)"	"one- or two-dwelling buildings"	3828
+"2008"	"SKL04 suburban municipalities to large cities (22 municipalities)"	"multi-dwelling buildings"	420
+"2008"	"SKL04 suburban municipalities to large cities (22 municipalities)"	"one- or two-dwelling buildings"	846
+"2008"	"SKL05 commuter municipalities (51 municipalities)"	"multi-dwelling buildings"	973
+"2008"	"SKL05 commuter municipalities (51 municipalities)"	"one- or two-dwelling buildings"	1069
+"2008"	"SKL06 tourism and travel industry municipalities (20 municipalities)"	"multi-dwelling buildings"	434
+"2008"	"SKL06 tourism and travel industry municipalities (20 municipalities)"	"one- or two-dwelling buildings"	508
+"2008"	"SKL07 manufacturing municipalities (54 municipalities)"	"multi-dwelling buildings"	213
+"2008"	"SKL07 manufacturing municipalities (54 municipalities)"	"one- or two-dwelling buildings"	536
+"2008"	"SKL08 sparsely populated municipalities (20 municipalities)"	"multi-dwelling buildings"	26
+"2008"	"SKL08 sparsely populated municipalities (20 municipalities)"	"one- or two-dwelling buildings"	52
+"2008"	"SKL09 municipalities in densely populated regions (35 municipalities)"	"multi-dwelling buildings"	654
+"2008"	"SKL09 municipalities in densely populated regions (35 municipalities)"	"one- or two-dwelling buildings"	925
+"2008"	"SKL10 municipalities in sparsely populated regions (16 municipalities)"	"multi-dwelling buildings"	290
+"2008"	"SKL10 municipalities in sparsely populated regions (16 municipalities)"	"one- or two-dwelling buildings"	120
+"2009"	"SKL01 metropolitan municipalities (3 municipalities)"	"multi-dwelling buildings"	6372
+"2009"	"SKL01 metropolitan municipalities (3 municipalities)"	"one- or two-dwelling buildings"	739
+"2009"	"SKL02 suburban municipalities (38 municipalities)"	"multi-dwelling buildings"	2710
+"2009"	"SKL02 suburban municipalities (38 municipalities)"	"one- or two-dwelling buildings"	1848
+"2009"	"SKL03 large cities (31 municipalities)"	"multi-dwelling buildings"	4042
+"2009"	"SKL03 large cities (31 municipalities)"	"one- or two-dwelling buildings"	2813
+"2009"	"SKL04 suburban municipalities to large cities (22 municipalities)"	"multi-dwelling buildings"	189
+"2009"	"SKL04 suburban municipalities to large cities (22 municipalities)"	"one- or two-dwelling buildings"	561
+"2009"	"SKL05 commuter municipalities (51 municipalities)"	"multi-dwelling buildings"	221
+"2009"	"SKL05 commuter municipalities (51 municipalities)"	"one- or two-dwelling buildings"	627
+"2009"	"SKL06 tourism and travel industry municipalities (20 municipalities)"	"multi-dwelling buildings"	218
+"2009"	"SKL06 tourism and travel industry municipalities (20 municipalities)"	"one- or two-dwelling buildings"	371
+"2009"	"SKL07 manufacturing municipalities (54 municipalities)"	"multi-dwelling buildings"	168
+"2009"	"SKL07 manufacturing municipalities (54 municipalities)"	"one- or two-dwelling buildings"	464
+"2009"	"SKL08 sparsely populated municipalities (20 municipalities)"	"multi-dwelling buildings"	50
+"2009"	"SKL08 sparsely populated municipalities (20 municipalities)"	"one- or two-dwelling buildings"	45
+"2009"	"SKL09 municipalities in densely populated regions (35 municipalities)"	"multi-dwelling buildings"	381
+"2009"	"SKL09 municipalities in densely populated regions (35 municipalities)"	"one- or two-dwelling buildings"	783
+"2009"	"SKL10 municipalities in sparsely populated regions (16 municipalities)"	"multi-dwelling buildings"	96
+"2009"	"SKL10 municipalities in sparsely populated regions (16 municipalities)"	"one- or two-dwelling buildings"	123
+"2010"	"SKL01 metropolitan municipalities (3 municipalities)"	"multi-dwelling buildings"	5457
+"2010"	"SKL01 metropolitan municipalities (3 municipalities)"	"one- or two-dwelling buildings"	523
+"2010"	"SKL02 suburban municipalities (38 municipalities)"	"multi-dwelling buildings"	1499
+"2010"	"SKL02 suburban municipalities (38 municipalities)"	"one- or two-dwelling buildings"	2243
+"2010"	"SKL03 large cities (31 municipalities)"	"multi-dwelling buildings"	2497
+"2010"	"SKL03 large cities (31 municipalities)"	"one- or two-dwelling buildings"	2925
+"2010"	"SKL04 suburban municipalities to large cities (22 municipalities)"	"multi-dwelling buildings"	121
+"2010"	"SKL04 suburban municipalities to large cities (22 municipalities)"	"one- or two-dwelling buildings"	564
+"2010"	"SKL05 commuter municipalities (51 municipalities)"	"multi-dwelling buildings"	328
+"2010"	"SKL05 commuter municipalities (51 municipalities)"	"one- or two-dwelling buildings"	656
+"2010"	"SKL06 tourism and travel industry municipalities (20 municipalities)"	"multi-dwelling buildings"	142
+"2010"	"SKL06 tourism and travel industry municipalities (20 municipalities)"	"one- or two-dwelling buildings"	376
+"2010"	"SKL07 manufacturing municipalities (54 municipalities)"	"multi-dwelling buildings"	176
+"2010"	"SKL07 manufacturing municipalities (54 municipalities)"	"one- or two-dwelling buildings"	495
+"2010"	"SKL08 sparsely populated municipalities (20 municipalities)"	"multi-dwelling buildings"	16
+"2010"	"SKL08 sparsely populated municipalities (20 municipalities)"	"one- or two-dwelling buildings"	62
+"2010"	"SKL09 municipalities in densely populated regions (35 municipalities)"	"multi-dwelling buildings"	328
+"2010"	"SKL09 municipalities in densely populated regions (35 municipalities)"	"one- or two-dwelling buildings"	879
+"2010"	"SKL10 municipalities in sparsely populated regions (16 municipalities)"	"multi-dwelling buildings"	61
+"2010"	"SKL10 municipalities in sparsely populated regions (16 municipalities)"	"one- or two-dwelling buildings"	152
+"2011"	"SKL01 metropolitan municipalities (3 municipalities)"	"multi-dwelling buildings"	4811
+"2011"	"SKL01 metropolitan municipalities (3 municipalities)"	"one- or two-dwelling buildings"	526
+"2011"	"SKL02 suburban municipalities (38 municipalities)"	"multi-dwelling buildings"	2522
+"2011"	"SKL02 suburban municipalities (38 municipalities)"	"one- or two-dwelling buildings"	1613
+"2011"	"SKL03 large cities (31 municipalities)"	"multi-dwelling buildings"	3311
+"2011"	"SKL03 large cities (31 municipalities)"	"one- or two-dwelling buildings"	2576
+"2011"	"SKL04 suburban municipalities to large cities (22 municipalities)"	"multi-dwelling buildings"	366
+"2011"	"SKL04 suburban municipalities to large cities (22 municipalities)"	"one- or two-dwelling buildings"	377
+"2011"	"SKL05 commuter municipalities (51 municipalities)"	"multi-dwelling buildings"	671
+"2011"	"SKL05 commuter municipalities (51 municipalities)"	"one- or two-dwelling buildings"	828
+"2011"	"SKL06 tourism and travel industry municipalities (20 municipalities)"	"multi-dwelling buildings"	188
+"2011"	"SKL06 tourism and travel industry municipalities (20 municipalities)"	"one- or two-dwelling buildings"	310
+"2011"	"SKL07 manufacturing municipalities (54 municipalities)"	"multi-dwelling buildings"	339
+"2011"	"SKL07 manufacturing municipalities (54 municipalities)"	"one- or two-dwelling buildings"	348
+"2011"	"SKL08 sparsely populated municipalities (20 municipalities)"	"multi-dwelling buildings"	6
+"2011"	"SKL08 sparsely populated municipalities (20 municipalities)"	"one- or two-dwelling buildings"	30
+"2011"	"SKL09 municipalities in densely populated regions (35 municipalities)"	"multi-dwelling buildings"	372
+"2011"	"SKL09 municipalities in densely populated regions (35 municipalities)"	"one- or two-dwelling buildings"	759
+"2011"	"SKL10 municipalities in sparsely populated regions (16 municipalities)"	"multi-dwelling buildings"	1
+"2011"	"SKL10 municipalities in sparsely populated regions (16 municipalities)"	"one- or two-dwelling buildings"	110
+"2012"	"SKL01 metropolitan municipalities (3 municipalities)"	"multi-dwelling buildings"	6714
+"2012"	"SKL01 metropolitan municipalities (3 municipalities)"	"one- or two-dwelling buildings"	600
+"2012"	"SKL02 suburban municipalities (38 municipalities)"	"multi-dwelling buildings"	2024
+"2012"	"SKL02 suburban municipalities (38 municipalities)"	"one- or two-dwelling buildings"	2094
+"2012"	"SKL03 large cities (31 municipalities)"	"multi-dwelling buildings"	5746
+"2012"	"SKL03 large cities (31 municipalities)"	"one- or two-dwelling buildings"	3409
+"2012"	"SKL04 suburban municipalities to large cities (22 municipalities)"	"multi-dwelling buildings"	231
+"2012"	"SKL04 suburban municipalities to large cities (22 municipalities)"	"one- or two-dwelling buildings"	480
+"2012"	"SKL05 commuter municipalities (51 municipalities)"	"multi-dwelling buildings"	792
+"2012"	"SKL05 commuter municipalities (51 municipalities)"	"one- or two-dwelling buildings"	894
+"2012"	"SKL06 tourism and travel industry municipalities (20 municipalities)"	"multi-dwelling buildings"	204
+"2012"	"SKL06 tourism and travel industry municipalities (20 municipalities)"	"one- or two-dwelling buildings"	438
+"2012"	"SKL07 manufacturing municipalities (54 municipalities)"	"multi-dwelling buildings"	270
+"2012"	"SKL07 manufacturing municipalities (54 municipalities)"	"one- or two-dwelling buildings"	380
+"2012"	"SKL08 sparsely populated municipalities (20 municipalities)"	"multi-dwelling buildings"	18
+"2012"	"SKL08 sparsely populated municipalities (20 municipalities)"	"one- or two-dwelling buildings"	63
+"2012"	"SKL09 municipalities in densely populated regions (35 municipalities)"	"multi-dwelling buildings"	561
+"2012"	"SKL09 municipalities in densely populated regions (35 municipalities)"	"one- or two-dwelling buildings"	848
+"2012"	"SKL10 municipalities in sparsely populated regions (16 municipalities)"	"multi-dwelling buildings"	97
+"2012"	"SKL10 municipalities in sparsely populated regions (16 municipalities)"	"one- or two-dwelling buildings"	130
+"2013"	"SKL01 metropolitan municipalities (3 municipalities)"	"multi-dwelling buildings"	6562
+"2013"	"SKL01 metropolitan municipalities (3 municipalities)"	"one- or two-dwelling buildings"	555
+"2013"	"SKL02 suburban municipalities (38 municipalities)"	"multi-dwelling buildings"	5105
+"2013"	"SKL02 suburban municipalities (38 municipalities)"	"one- or two-dwelling buildings"	2645
+"2013"	"SKL03 large cities (31 municipalities)"	"multi-dwelling buildings"	6973
+"2013"	"SKL03 large cities (31 municipalities)"	"one- or two-dwelling buildings"	2493
+"2013"	"SKL04 suburban municipalities to large cities (22 municipalities)"	"multi-dwelling buildings"	323
+"2013"	"SKL04 suburban municipalities to large cities (22 municipalities)"	"one- or two-dwelling buildings"	413
+"2013"	"SKL05 commuter municipalities (51 municipalities)"	"multi-dwelling buildings"	535
+"2013"	"SKL05 commuter municipalities (51 municipalities)"	"one- or two-dwelling buildings"	669
+"2013"	"SKL06 tourism and travel industry municipalities (20 municipalities)"	"multi-dwelling buildings"	140
+"2013"	"SKL06 tourism and travel industry municipalities (20 municipalities)"	"one- or two-dwelling buildings"	530
+"2013"	"SKL07 manufacturing municipalities (54 municipalities)"	"multi-dwelling buildings"	368
+"2013"	"SKL07 manufacturing municipalities (54 municipalities)"	"one- or two-dwelling buildings"	425
+"2013"	"SKL08 sparsely populated municipalities (20 municipalities)"	"multi-dwelling buildings"	57
+"2013"	"SKL08 sparsely populated municipalities (20 municipalities)"	"one- or two-dwelling buildings"	48
+"2013"	"SKL09 municipalities in densely populated regions (35 municipalities)"	"multi-dwelling buildings"	465
+"2013"	"SKL09 municipalities in densely populated regions (35 municipalities)"	"one- or two-dwelling buildings"	630
+"2013"	"SKL10 municipalities in sparsely populated regions (16 municipalities)"	"multi-dwelling buildings"	135
+"2013"	"SKL10 municipalities in sparsely populated regions (16 municipalities)"	"one- or two-dwelling buildings"	154
+"2014"	"SKL01 metropolitan municipalities (3 municipalities)"	"multi-dwelling buildings"	6159
+"2014"	"SKL01 metropolitan municipalities (3 municipalities)"	"one- or two-dwelling buildings"	615
+"2014"	"SKL02 suburban municipalities (38 municipalities)"	"multi-dwelling buildings"	4608
+"2014"	"SKL02 suburban municipalities (38 municipalities)"	"one- or two-dwelling buildings"	2387
+"2014"	"SKL03 large cities (31 municipalities)"	"multi-dwelling buildings"	6564
+"2014"	"SKL03 large cities (31 municipalities)"	"one- or two-dwelling buildings"	2720
+"2014"	"SKL04 suburban municipalities to large cities (22 municipalities)"	"multi-dwelling buildings"	595
+"2014"	"SKL04 suburban municipalities to large cities (22 municipalities)"	"one- or two-dwelling buildings"	366
+"2014"	"SKL05 commuter municipalities (51 municipalities)"	"multi-dwelling buildings"	707
+"2014"	"SKL05 commuter municipalities (51 municipalities)"	"one- or two-dwelling buildings"	570
+"2014"	"SKL06 tourism and travel industry municipalities (20 municipalities)"	"multi-dwelling buildings"	476
+"2014"	"SKL06 tourism and travel industry municipalities (20 municipalities)"	"one- or two-dwelling buildings"	625
+"2014"	"SKL07 manufacturing municipalities (54 municipalities)"	"multi-dwelling buildings"	278
+"2014"	"SKL07 manufacturing municipalities (54 municipalities)"	"one- or two-dwelling buildings"	334
+"2014"	"SKL08 sparsely populated municipalities (20 municipalities)"	"multi-dwelling buildings"	56
+"2014"	"SKL08 sparsely populated municipalities (20 municipalities)"	"one- or two-dwelling buildings"	17
+"2014"	"SKL09 municipalities in densely populated regions (35 municipalities)"	"multi-dwelling buildings"	1037
+"2014"	"SKL09 municipalities in densely populated regions (35 municipalities)"	"one- or two-dwelling buildings"	676
+"2014"	"SKL10 municipalities in sparsely populated regions (16 municipalities)"	"multi-dwelling buildings"	274
+"2014"	"SKL10 municipalities in sparsely populated regions (16 municipalities)"	"one- or two-dwelling buildings"	100
+"2015"	"SKL01 metropolitan municipalities (3 municipalities)"	"multi-dwelling buildings"	7888
+"2015"	"SKL01 metropolitan municipalities (3 municipalities)"	"one- or two-dwelling buildings"	695
+"2015"	"SKL02 suburban municipalities (38 municipalities)"	"multi-dwelling buildings"	5777
+"2015"	"SKL02 suburban municipalities (38 municipalities)"	"one- or two-dwelling buildings"	2495
+"2015"	"SKL03 large cities (31 municipalities)"	"multi-dwelling buildings"	8692
+"2015"	"SKL03 large cities (31 municipalities)"	"one- or two-dwelling buildings"	3314
+"2015"	"SKL04 suburban municipalities to large cities (22 municipalities)"	"multi-dwelling buildings"	509
+"2015"	"SKL04 suburban municipalities to large cities (22 municipalities)"	"one- or two-dwelling buildings"	383
+"2015"	"SKL05 commuter municipalities (51 municipalities)"	"multi-dwelling buildings"	965
+"2015"	"SKL05 commuter municipalities (51 municipalities)"	"one- or two-dwelling buildings"	623
+"2015"	"SKL06 tourism and travel industry municipalities (20 municipalities)"	"multi-dwelling buildings"	305
+"2015"	"SKL06 tourism and travel industry municipalities (20 municipalities)"	"one- or two-dwelling buildings"	301
+"2015"	"SKL07 manufacturing municipalities (54 municipalities)"	"multi-dwelling buildings"	409
+"2015"	"SKL07 manufacturing municipalities (54 municipalities)"	"one- or two-dwelling buildings"	357
+"2015"	"SKL08 sparsely populated municipalities (20 municipalities)"	"multi-dwelling buildings"	6
+"2015"	"SKL08 sparsely populated municipalities (20 municipalities)"	"one- or two-dwelling buildings"	58
+"2015"	"SKL09 municipalities in densely populated regions (35 municipalities)"	"multi-dwelling buildings"	907
+"2015"	"SKL09 municipalities in densely populated regions (35 municipalities)"	"one- or two-dwelling buildings"	689
+"2015"	"SKL10 municipalities in sparsely populated regions (16 municipalities)"	"multi-dwelling buildings"	107
+"2015"	"SKL10 municipalities in sparsely populated regions (16 municipalities)"	"one- or two-dwelling buildings"	123
+"2016"	"SKL01 metropolitan municipalities (3 municipalities)"	"multi-dwelling buildings"	7072
+"2016"	"SKL01 metropolitan municipalities (3 municipalities)"	"one- or two-dwelling buildings"	773
+"2016"	"SKL02 suburban municipalities (38 municipalities)"	"multi-dwelling buildings"	7672
+"2016"	"SKL02 suburban municipalities (38 municipalities)"	"one- or two-dwelling buildings"	3269
+"2016"	"SKL03 large cities (31 municipalities)"	"multi-dwelling buildings"	11970
+"2016"	"SKL03 large cities (31 municipalities)"	"one- or two-dwelling buildings"	3966
+"2016"	"SKL04 suburban municipalities to large cities (22 municipalities)"	"multi-dwelling buildings"	938
+"2016"	"SKL04 suburban municipalities to large cities (22 municipalities)"	"one- or two-dwelling buildings"	715
+"2016"	"SKL05 commuter municipalities (51 municipalities)"	"multi-dwelling buildings"	1006
+"2016"	"SKL05 commuter municipalities (51 municipalities)"	"one- or two-dwelling buildings"	785
+"2016"	"SKL06 tourism and travel industry municipalities (20 municipalities)"	"multi-dwelling buildings"	492
+"2016"	"SKL06 tourism and travel industry municipalities (20 municipalities)"	"one- or two-dwelling buildings"	469
+"2016"	"SKL07 manufacturing municipalities (54 municipalities)"	"multi-dwelling buildings"	509
+"2016"	"SKL07 manufacturing municipalities (54 municipalities)"	"one- or two-dwelling buildings"	389
+"2016"	"SKL08 sparsely populated municipalities (20 municipalities)"	"multi-dwelling buildings"	56
+"2016"	"SKL08 sparsely populated municipalities (20 municipalities)"	"one- or two-dwelling buildings"	28
+"2016"	"SKL09 municipalities in densely populated regions (35 municipalities)"	"multi-dwelling buildings"	938
+"2016"	"SKL09 municipalities in densely populated regions (35 municipalities)"	"one- or two-dwelling buildings"	866
+"2016"	"SKL10 municipalities in sparsely populated regions (16 municipalities)"	"multi-dwelling buildings"	377
+"2016"	"SKL10 municipalities in sparsely populated regions (16 municipalities)"	"one- or two-dwelling buildings"	151
+"2017"	"SKL01 metropolitan municipalities (3 municipalities)"	"multi-dwelling buildings"	8630
+"2017"	"SKL01 metropolitan municipalities (3 municipalities)"	"one- or two-dwelling buildings"	858
+"2017"	"SKL02 suburban municipalities (38 municipalities)"	"multi-dwelling buildings"	8794
+"2017"	"SKL02 suburban municipalities (38 municipalities)"	"one- or two-dwelling buildings"	3456
+"2017"	"SKL03 large cities (31 municipalities)"	"multi-dwelling buildings"	13780
+"2017"	"SKL03 large cities (31 municipalities)"	"one- or two-dwelling buildings"	4026
+"2017"	"SKL04 suburban municipalities to large cities (22 municipalities)"	"multi-dwelling buildings"	647
+"2017"	"SKL04 suburban municipalities to large cities (22 municipalities)"	"one- or two-dwelling buildings"	831
+"2017"	"SKL05 commuter municipalities (51 municipalities)"	"multi-dwelling buildings"	1242
+"2017"	"SKL05 commuter municipalities (51 municipalities)"	"one- or two-dwelling buildings"	971
+"2017"	"SKL06 tourism and travel industry municipalities (20 municipalities)"	"multi-dwelling buildings"	627
+"2017"	"SKL06 tourism and travel industry municipalities (20 municipalities)"	"one- or two-dwelling buildings"	467
+"2017"	"SKL07 manufacturing municipalities (54 municipalities)"	"multi-dwelling buildings"	508
+"2017"	"SKL07 manufacturing municipalities (54 municipalities)"	"one- or two-dwelling buildings"	472
+"2017"	"SKL08 sparsely populated municipalities (20 municipalities)"	"multi-dwelling buildings"	23
+"2017"	"SKL08 sparsely populated municipalities (20 municipalities)"	"one- or two-dwelling buildings"	48
+"2017"	"SKL09 municipalities in densely populated regions (35 municipalities)"	"multi-dwelling buildings"	1210
+"2017"	"SKL09 municipalities in densely populated regions (35 municipalities)"	"one- or two-dwelling buildings"	1164
+"2017"	"SKL10 municipalities in sparsely populated regions (16 municipalities)"	"multi-dwelling buildings"	322
+"2017"	"SKL10 municipalities in sparsely populated regions (16 municipalities)"	"one- or two-dwelling buildings"	151
+"2018"	"SKL01 metropolitan municipalities (3 municipalities)"	"multi-dwelling buildings"	10558
+"2018"	"SKL01 metropolitan municipalities (3 municipalities)"	"one- or two-dwelling buildings"	630
+"2018"	"SKL02 suburban municipalities (38 municipalities)"	"multi-dwelling buildings"	9034
+"2018"	"SKL02 suburban municipalities (38 municipalities)"	"one- or two-dwelling buildings"	2678
+"2018"	"SKL03 large cities (31 municipalities)"	"multi-dwelling buildings"	16893
+"2018"	"SKL03 large cities (31 municipalities)"	"one- or two-dwelling buildings"	4323
+"2018"	"SKL04 suburban municipalities to large cities (22 municipalities)"	"multi-dwelling buildings"	780
+"2018"	"SKL04 suburban municipalities to large cities (22 municipalities)"	"one- or two-dwelling buildings"	710
+"2018"	"SKL05 commuter municipalities (51 municipalities)"	"multi-dwelling buildings"	1431
+"2018"	"SKL05 commuter municipalities (51 municipalities)"	"one- or two-dwelling buildings"	1130
+"2018"	"SKL06 tourism and travel industry municipalities (20 municipalities)"	"multi-dwelling buildings"	931
+"2018"	"SKL06 tourism and travel industry municipalities (20 municipalities)"	"one- or two-dwelling buildings"	488
+"2018"	"SKL07 manufacturing municipalities (54 municipalities)"	"multi-dwelling buildings"	1037
+"2018"	"SKL07 manufacturing municipalities (54 municipalities)"	"one- or two-dwelling buildings"	617
+"2018"	"SKL08 sparsely populated municipalities (20 municipalities)"	"multi-dwelling buildings"	77
+"2018"	"SKL08 sparsely populated municipalities (20 municipalities)"	"one- or two-dwelling buildings"	50
+"2018"	"SKL09 municipalities in densely populated regions (35 municipalities)"	"multi-dwelling buildings"	1772
+"2018"	"SKL09 municipalities in densely populated regions (35 municipalities)"	"one- or two-dwelling buildings"	1237
+"2018"	"SKL10 municipalities in sparsely populated regions (16 municipalities)"	"multi-dwelling buildings"	331
+"2018"	"SKL10 municipalities in sparsely populated regions (16 municipalities)"	"one- or two-dwelling buildings"	169
+"2019"	"SKL01 metropolitan municipalities (3 municipalities)"	"multi-dwelling buildings"	12184
+"2019"	"SKL01 metropolitan municipalities (3 municipalities)"	"one- or two-dwelling buildings"	569
+"2019"	"SKL02 suburban municipalities (38 municipalities)"	"multi-dwelling buildings"	10264
+"2019"	"SKL02 suburban municipalities (38 municipalities)"	"one- or two-dwelling buildings"	2210
+"2019"	"SKL03 large cities (31 municipalities)"	"multi-dwelling buildings"	16594
+"2019"	"SKL03 large cities (31 municipalities)"	"one- or two-dwelling buildings"	3353
+"2019"	"SKL04 suburban municipalities to large cities (22 municipalities)"	"multi-dwelling buildings"	654
+"2019"	"SKL04 suburban municipalities to large cities (22 municipalities)"	"one- or two-dwelling buildings"	681
+"2019"	"SKL05 commuter municipalities (51 municipalities)"	"multi-dwelling buildings"	1458
+"2019"	"SKL05 commuter municipalities (51 municipalities)"	"one- or two-dwelling buildings"	1059
+"2019"	"SKL06 tourism and travel industry municipalities (20 municipalities)"	"multi-dwelling buildings"	927
+"2019"	"SKL06 tourism and travel industry municipalities (20 municipalities)"	"one- or two-dwelling buildings"	431
+"2019"	"SKL07 manufacturing municipalities (54 municipalities)"	"multi-dwelling buildings"	1120
+"2019"	"SKL07 manufacturing municipalities (54 municipalities)"	"one- or two-dwelling buildings"	650
+"2019"	"SKL08 sparsely populated municipalities (20 municipalities)"	"multi-dwelling buildings"	22
+"2019"	"SKL08 sparsely populated municipalities (20 municipalities)"	"one- or two-dwelling buildings"	45
+"2019"	"SKL09 municipalities in densely populated regions (35 municipalities)"	"multi-dwelling buildings"	1736
+"2019"	"SKL09 municipalities in densely populated regions (35 municipalities)"	"one- or two-dwelling buildings"	1075
+"2019"	"SKL10 municipalities in sparsely populated regions (16 municipalities)"	"multi-dwelling buildings"	487
+"2019"	"SKL10 municipalities in sparsely populated regions (16 municipalities)"	"one- or two-dwelling buildings"	140
+"2020"	"SKL01 metropolitan municipalities (3 municipalities)"	"multi-dwelling buildings"	10972
+"2020"	"SKL01 metropolitan municipalities (3 municipalities)"	"one- or two-dwelling buildings"	666
+"2020"	"SKL02 suburban municipalities (38 municipalities)"	"multi-dwelling buildings"	7750
+"2020"	"SKL02 suburban municipalities (38 municipalities)"	"one- or two-dwelling buildings"	2757
+"2020"	"SKL03 large cities (31 municipalities)"	"multi-dwelling buildings"	13139
+"2020"	"SKL03 large cities (31 municipalities)"	"one- or two-dwelling buildings"	3384
+"2020"	"SKL04 suburban municipalities to large cities (22 municipalities)"	"multi-dwelling buildings"	1066
+"2020"	"SKL04 suburban municipalities to large cities (22 municipalities)"	"one- or two-dwelling buildings"	677
+"2020"	"SKL05 commuter municipalities (51 municipalities)"	"multi-dwelling buildings"	1943
+"2020"	"SKL05 commuter municipalities (51 municipalities)"	"one- or two-dwelling buildings"	1233
+"2020"	"SKL06 tourism and travel industry municipalities (20 municipalities)"	"multi-dwelling buildings"	395
+"2020"	"SKL06 tourism and travel industry municipalities (20 municipalities)"	"one- or two-dwelling buildings"	487
+"2020"	"SKL07 manufacturing municipalities (54 municipalities)"	"multi-dwelling buildings"	1392
+"2020"	"SKL07 manufacturing municipalities (54 municipalities)"	"one- or two-dwelling buildings"	687
+"2020"	"SKL08 sparsely populated municipalities (20 municipalities)"	"multi-dwelling buildings"	60
+"2020"	"SKL08 sparsely populated municipalities (20 municipalities)"	"one- or two-dwelling buildings"	48
+"2020"	"SKL09 municipalities in densely populated regions (35 municipalities)"	"multi-dwelling buildings"	1728
+"2020"	"SKL09 municipalities in densely populated regions (35 municipalities)"	"one- or two-dwelling buildings"	1472
+"2020"	"SKL10 municipalities in sparsely populated regions (16 municipalities)"	"multi-dwelling buildings"	461
+"2020"	"SKL10 municipalities in sparsely populated regions (16 municipalities)"	"one- or two-dwelling buildings"	162

@@ -1,0 +1,3 @@
+parameter	value
+a	-0.08486
+b	0.76381

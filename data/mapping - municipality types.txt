@@ -1,0 +1,292 @@
+mun_code	Kommun	municipality	mun_group_num	Kommungrupp_namn	region	mun_group_sum
+0180	Stockholm	0180 Stockholm	1	Storstäder	SKL01 metropolitan municipalities (3 municipalities)	metropolitan
+1280	Malmö	1280 Malmö	1	Storstäder	SKL01 metropolitan municipalities (3 municipalities)	metropolitan
+1480	Göteborg	1480 Göteborg	1	Storstäder	SKL01 metropolitan municipalities (3 municipalities)	metropolitan
+0114	Upplands Väsby	0114 Upplands Väsby	2	Förortskommuner till storstäderna	SKL02 suburban municipalities (38 municipalities)	suburban
+0115	Vallentuna	0115 Vallentuna	2	Förortskommuner till storstäderna	SKL02 suburban municipalities (38 municipalities)	suburban
+0117	Österåker	0117 Österåker	2	Förortskommuner till storstäderna	SKL02 suburban municipalities (38 municipalities)	suburban
+0120	Värmdö	0120 Värmdö	2	Förortskommuner till storstäderna	SKL02 suburban municipalities (38 municipalities)	suburban
+0123	Järfälla	0123 Järfälla	2	Förortskommuner till storstäderna	SKL02 suburban municipalities (38 municipalities)	suburban
+0125	Ekerö	0125 Ekerö	2	Förortskommuner till storstäderna	SKL02 suburban municipalities (38 municipalities)	suburban
+0126	Huddinge	0126 Huddinge	2	Förortskommuner till storstäderna	SKL02 suburban municipalities (38 municipalities)	suburban
+0127	Botkyrka	0127 Botkyrka	2	Förortskommuner till storstäderna	SKL02 suburban municipalities (38 municipalities)	suburban
+0128	Salem	0128 Salem	2	Förortskommuner till storstäderna	SKL02 suburban municipalities (38 municipalities)	suburban
+0136	Haninge	0136 Haninge	2	Förortskommuner till storstäderna	SKL02 suburban municipalities (38 municipalities)	suburban
+0138	Tyresö	0138 Tyresö	2	Förortskommuner till storstäderna	SKL02 suburban municipalities (38 municipalities)	suburban
+0139	Upplands-Bro	0139 Upplands-Bro	2	Förortskommuner till storstäderna	SKL02 suburban municipalities (38 municipalities)	suburban
+0160	Täby	0160 Täby	2	Förortskommuner till storstäderna	SKL02 suburban municipalities (38 municipalities)	suburban
+0162	Danderyd	0162 Danderyd	2	Förortskommuner till storstäderna	SKL02 suburban municipalities (38 municipalities)	suburban
+0163	Sollentuna	0163 Sollentuna	2	Förortskommuner till storstäderna	SKL02 suburban municipalities (38 municipalities)	suburban
+0182	Nacka	0182 Nacka	2	Förortskommuner till storstäderna	SKL02 suburban municipalities (38 municipalities)	suburban
+0183	Sundbyberg	0183 Sundbyberg	2	Förortskommuner till storstäderna	SKL02 suburban municipalities (38 municipalities)	suburban
+0184	Solna	0184 Solna	2	Förortskommuner till storstäderna	SKL02 suburban municipalities (38 municipalities)	suburban
+0186	Lidingö	0186 Lidingö	2	Förortskommuner till storstäderna	SKL02 suburban municipalities (38 municipalities)	suburban
+0187	Vaxholm	0187 Vaxholm	2	Förortskommuner till storstäderna	SKL02 suburban municipalities (38 municipalities)	suburban
+0192	Nynäshamn	0192 Nynäshamn	2	Förortskommuner till storstäderna	SKL02 suburban municipalities (38 municipalities)	suburban
+0305	Håbo	0305 Håbo	2	Förortskommuner till storstäderna	SKL02 suburban municipalities (38 municipalities)	suburban
+1230	Staffanstorp	1230 Staffanstorp	2	Förortskommuner till storstäderna	SKL02 suburban municipalities (38 municipalities)	suburban
+1231	Burlöv	1231 Burlöv	2	Förortskommuner till storstäderna	SKL02 suburban municipalities (38 municipalities)	suburban
+1233	Vellinge	1233 Vellinge	2	Förortskommuner till storstäderna	SKL02 suburban municipalities (38 municipalities)	suburban
+1262	Lomma	1262 Lomma	2	Förortskommuner till storstäderna	SKL02 suburban municipalities (38 municipalities)	suburban
+1263	Svedala	1263 Svedala	2	Förortskommuner till storstäderna	SKL02 suburban municipalities (38 municipalities)	suburban
+1264	Skurup	1264 Skurup	2	Förortskommuner till storstäderna	SKL02 suburban municipalities (38 municipalities)	suburban
+1384	Kungsbacka	1384 Kungsbacka	2	Förortskommuner till storstäderna	SKL02 suburban municipalities (38 municipalities)	suburban
+1401	Härryda	1401 Härryda	2	Förortskommuner till storstäderna	SKL02 suburban municipalities (38 municipalities)	suburban
+1402	Partille	1402 Partille	2	Förortskommuner till storstäderna	SKL02 suburban municipalities (38 municipalities)	suburban
+1407	Öckerö	1407 Öckerö	2	Förortskommuner till storstäderna	SKL02 suburban municipalities (38 municipalities)	suburban
+1440	Ale	1440 Ale	2	Förortskommuner till storstäderna	SKL02 suburban municipalities (38 municipalities)	suburban
+1441	Lerum	1441 Lerum	2	Förortskommuner till storstäderna	SKL02 suburban municipalities (38 municipalities)	suburban
+1443	Bollebygd	1443 Bollebygd	2	Förortskommuner till storstäderna	SKL02 suburban municipalities (38 municipalities)	suburban
+1462	Lilla Edet	1462 Lilla Edet	2	Förortskommuner till storstäderna	SKL02 suburban municipalities (38 municipalities)	suburban
+1481	Mölndal	1481 Mölndal	2	Förortskommuner till storstäderna	SKL02 suburban municipalities (38 municipalities)	suburban
+1482	Kungälv	1482 Kungälv	2	Förortskommuner till storstäderna	SKL02 suburban municipalities (38 municipalities)	suburban
+0181	Södertälje	0181 Södertälje	3	Större städer	SKL03 large cities (31 municipalities)	large cities
+0380	Uppsala	0380 Uppsala	3	Större städer	SKL03 large cities (31 municipalities)	large cities
+0480	Nyköping	0480 Nyköping	3	Större städer	SKL03 large cities (31 municipalities)	large cities
+0484	Eskilstuna	0484 Eskilstuna	3	Större städer	SKL03 large cities (31 municipalities)	large cities
+0580	Linköping	0580 Linköping	3	Större städer	SKL03 large cities (31 municipalities)	large cities
+0581	Norrköping	0581 Norrköping	3	Större städer	SKL03 large cities (31 municipalities)	large cities
+0680	Jönköping	0680 Jönköping	3	Större städer	SKL03 large cities (31 municipalities)	large cities
+0780	Växjö	0780 Växjö	3	Större städer	SKL03 large cities (31 municipalities)	large cities
+0880	Kalmar	0880 Kalmar	3	Större städer	SKL03 large cities (31 municipalities)	large cities
+1080	Karlskrona	1080 Karlskrona	3	Större städer	SKL03 large cities (31 municipalities)	large cities
+1281	Lund	1281 Lund	3	Större städer	SKL03 large cities (31 municipalities)	large cities
+1283	Helsingborg	1283 Helsingborg	3	Större städer	SKL03 large cities (31 municipalities)	large cities
+1290	Kristianstad	1290 Kristianstad	3	Större städer	SKL03 large cities (31 municipalities)	large cities
+1293	Hässleholm	1293 Hässleholm	3	Större städer	SKL03 large cities (31 municipalities)	large cities
+1380	Halmstad	1380 Halmstad	3	Större städer	SKL03 large cities (31 municipalities)	large cities
+1383	Varberg	1383 Varberg	3	Större städer	SKL03 large cities (31 municipalities)	large cities
+1485	Uddevalla	1485 Uddevalla	3	Större städer	SKL03 large cities (31 municipalities)	large cities
+1488	Trollhättan	1488 Trollhättan	3	Större städer	SKL03 large cities (31 municipalities)	large cities
+1490	Borås	1490 Borås	3	Större städer	SKL03 large cities (31 municipalities)	large cities
+1496	Skövde	1496 Skövde	3	Större städer	SKL03 large cities (31 municipalities)	large cities
+1780	Karlstad	1780 Karlstad	3	Större städer	SKL03 large cities (31 municipalities)	large cities
+1880	Örebro	1880 Örebro	3	Större städer	SKL03 large cities (31 municipalities)	large cities
+1980	Västerås	1980 Västerås	3	Större städer	SKL03 large cities (31 municipalities)	large cities
+2080	Falun	2080 Falun	3	Större städer	SKL03 large cities (31 municipalities)	large cities
+2180	Gävle	2180 Gävle	3	Större städer	SKL03 large cities (31 municipalities)	large cities
+2281	Sundsvall	2281 Sundsvall	3	Större städer	SKL03 large cities (31 municipalities)	large cities
+2284	Örnsköldsvik	2284 Örnsköldsvik	3	Större städer	SKL03 large cities (31 municipalities)	large cities
+2380	Östersund	2380 Östersund	3	Större städer	SKL03 large cities (31 municipalities)	large cities
+2480	Umeå	2480 Umeå	3	Större städer	SKL03 large cities (31 municipalities)	large cities
+2482	Skellefteå	2482 Skellefteå	3	Större städer	SKL03 large cities (31 municipalities)	large cities
+2580	Luleå	2580 Luleå	3	Större städer	SKL03 large cities (31 municipalities)	large cities
+0140	Nykvarn	0140 Nykvarn	4	Förortskommuner till större städer	SKL04 suburban municipalities to large cities (22 municipalities)	suburban to large cities
+0319	Älvkarleby	0319 Älvkarleby	4	Förortskommuner till större städer	SKL04 suburban municipalities to large cities (22 municipalities)	suburban to large cities
+0330	Knivsta	0330 Knivsta	4	Förortskommuner till större städer	SKL04 suburban municipalities to large cities (22 municipalities)	suburban to large cities
+0461	Gnesta	0461 Gnesta	4	Förortskommuner till större städer	SKL04 suburban municipalities to large cities (22 municipalities)	suburban to large cities
+0488	Trosa	0488 Trosa	4	Förortskommuner till större städer	SKL04 suburban municipalities to large cities (22 municipalities)	suburban to large cities
+0582	Söderköping	0582 Söderköping	4	Förortskommuner till större städer	SKL04 suburban municipalities to large cities (22 municipalities)	suburban to large cities
+0643	Habo	0643 Habo	4	Förortskommuner till större städer	SKL04 suburban municipalities to large cities (22 municipalities)	suburban to large cities
+0840	Mörbylånga	0840 Mörbylånga	4	Förortskommuner till större städer	SKL04 suburban municipalities to large cities (22 municipalities)	suburban to large cities
+1260	Bjuv	1260 Bjuv	4	Förortskommuner till större städer	SKL04 suburban municipalities to large cities (22 municipalities)	suburban to large cities
+1261	Kävlinge	1261 Kävlinge	4	Förortskommuner till större städer	SKL04 suburban municipalities to large cities (22 municipalities)	suburban to large cities
+1265	Sjöbo	1265 Sjöbo	4	Förortskommuner till större städer	SKL04 suburban municipalities to large cities (22 municipalities)	suburban to large cities
+1266	Hörby	1266 Hörby	4	Förortskommuner till större städer	SKL04 suburban municipalities to large cities (22 municipalities)	suburban to large cities
+1267	Höör	1267 Höör	4	Förortskommuner till större städer	SKL04 suburban municipalities to large cities (22 municipalities)	suburban to large cities
+1277	Åstorp	1277 Åstorp	4	Förortskommuner till större städer	SKL04 suburban municipalities to large cities (22 municipalities)	suburban to large cities
+1285	Eslöv	1285 Eslöv	4	Förortskommuner till större städer	SKL04 suburban municipalities to large cities (22 municipalities)	suburban to large cities
+1444	Grästorp	1444 Grästorp	4	Förortskommuner till större städer	SKL04 suburban municipalities to large cities (22 municipalities)	suburban to large cities
+1715	Kil	1715 Kil	4	Förortskommuner till större städer	SKL04 suburban municipalities to large cities (22 municipalities)	suburban to large cities
+1761	Hammarö	1761 Hammarö	4	Förortskommuner till större städer	SKL04 suburban municipalities to large cities (22 municipalities)	suburban to large cities
+1763	Forshaga	1763 Forshaga	4	Förortskommuner till större städer	SKL04 suburban municipalities to large cities (22 municipalities)	suburban to large cities
+1814	Lekeberg	1814 Lekeberg	4	Förortskommuner till större städer	SKL04 suburban municipalities to large cities (22 municipalities)	suburban to large cities
+1881	Kumla	1881 Kumla	4	Förortskommuner till större städer	SKL04 suburban municipalities to large cities (22 municipalities)	suburban to large cities
+2262	Timrå	2262 Timrå	4	Förortskommuner till större städer	SKL04 suburban municipalities to large cities (22 municipalities)	suburban to large cities
+0191	Sigtuna	0191 Sigtuna	5	Pendlingskommuner	SKL05 commuter municipalities (51 municipalities)	commuter
+0331	Heby	0331 Heby	5	Pendlingskommuner	SKL05 commuter municipalities (51 municipalities)	commuter
+1917	Heby	1917 Heby	5	Pendlingskommuner	SKL05 commuter municipalities (51 municipalities)	commuter
+0428	Vingåker	0428 Vingåker	5	Pendlingskommuner	SKL05 commuter municipalities (51 municipalities)	commuter
+0486	Strängnäs	0486 Strängnäs	5	Pendlingskommuner	SKL05 commuter municipalities (51 municipalities)	commuter
+0509	Ödeshög	0509 Ödeshög	5	Pendlingskommuner	SKL05 commuter municipalities (51 municipalities)	commuter
+0512	Ydre	0512 Ydre	5	Pendlingskommuner	SKL05 commuter municipalities (51 municipalities)	commuter
+0560	Boxholm	0560 Boxholm	5	Pendlingskommuner	SKL05 commuter municipalities (51 municipalities)	commuter
+0561	Åtvidaberg	0561 Åtvidaberg	5	Pendlingskommuner	SKL05 commuter municipalities (51 municipalities)	commuter
+0584	Vadstena	0584 Vadstena	5	Pendlingskommuner	SKL05 commuter municipalities (51 municipalities)	commuter
+0604	Aneby	0604 Aneby	5	Pendlingskommuner	SKL05 commuter municipalities (51 municipalities)	commuter
+0642	Mullsjö	0642 Mullsjö	5	Pendlingskommuner	SKL05 commuter municipalities (51 municipalities)	commuter
+0761	Lessebo	0761 Lessebo	5	Pendlingskommuner	SKL05 commuter municipalities (51 municipalities)	commuter
+0764	Alvesta	0764 Alvesta	5	Pendlingskommuner	SKL05 commuter municipalities (51 municipalities)	commuter
+0821	Högsby	0821 Högsby	5	Pendlingskommuner	SKL05 commuter municipalities (51 municipalities)	commuter
+1214	Svalöv	1214 Svalöv	5	Pendlingskommuner	SKL05 commuter municipalities (51 municipalities)	commuter
+1256	Östra Göinge	1256 Östra Göinge	5	Pendlingskommuner	SKL05 commuter municipalities (51 municipalities)	commuter
+1270	Tomelilla	1270 Tomelilla	5	Pendlingskommuner	SKL05 commuter municipalities (51 municipalities)	commuter
+1272	Bromölla	1272 Bromölla	5	Pendlingskommuner	SKL05 commuter municipalities (51 municipalities)	commuter
+1273	Osby	1273 Osby	5	Pendlingskommuner	SKL05 commuter municipalities (51 municipalities)	commuter
+1276	Klippan	1276 Klippan	5	Pendlingskommuner	SKL05 commuter municipalities (51 municipalities)	commuter
+1284	Höganäs	1284 Höganäs	5	Pendlingskommuner	SKL05 commuter municipalities (51 municipalities)	commuter
+1287	Trelleborg	1287 Trelleborg	5	Pendlingskommuner	SKL05 commuter municipalities (51 municipalities)	commuter
+1292	Ängelholm	1292 Ängelholm	5	Pendlingskommuner	SKL05 commuter municipalities (51 municipalities)	commuter
+1415	Stenungsund	1415 Stenungsund	5	Pendlingskommuner	SKL05 commuter municipalities (51 municipalities)	commuter
+1419	Tjörn	1419 Tjörn	5	Pendlingskommuner	SKL05 commuter municipalities (51 municipalities)	commuter
+1421	Orust	1421 Orust	5	Pendlingskommuner	SKL05 commuter municipalities (51 municipalities)	commuter
+1430	Munkedal	1430 Munkedal	5	Pendlingskommuner	SKL05 commuter municipalities (51 municipalities)	commuter
+1439	Färgelanda	1439 Färgelanda	5	Pendlingskommuner	SKL05 commuter municipalities (51 municipalities)	commuter
+1442	Vårgårda	1442 Vårgårda	5	Pendlingskommuner	SKL05 commuter municipalities (51 municipalities)	commuter
+1445	Essunga	1445 Essunga	5	Pendlingskommuner	SKL05 commuter municipalities (51 municipalities)	commuter
+1472	Tibro	1472 Tibro	5	Pendlingskommuner	SKL05 commuter municipalities (51 municipalities)	commuter
+1487	Vänersborg	1487 Vänersborg	5	Pendlingskommuner	SKL05 commuter municipalities (51 municipalities)	commuter
+1489	Alingsås	1489 Alingsås	5	Pendlingskommuner	SKL05 commuter municipalities (51 municipalities)	commuter
+1497	Hjo	1497 Hjo	5	Pendlingskommuner	SKL05 commuter municipalities (51 municipalities)	commuter
+1760	Storfors	1760 Storfors	5	Pendlingskommuner	SKL05 commuter municipalities (51 municipalities)	commuter
+1861	Hallsberg	1861 Hallsberg	5	Pendlingskommuner	SKL05 commuter municipalities (51 municipalities)	commuter
+1862	Degerfors	1862 Degerfors	5	Pendlingskommuner	SKL05 commuter municipalities (51 municipalities)	commuter
+1884	Nora	1884 Nora	5	Pendlingskommuner	SKL05 commuter municipalities (51 municipalities)	commuter
+1904	Skinnskatteberg	1904 Skinnskatteberg	5	Pendlingskommuner	SKL05 commuter municipalities (51 municipalities)	commuter
+1907	Surahammar	1907 Surahammar	5	Pendlingskommuner	SKL05 commuter municipalities (51 municipalities)	commuter
+1960	Kungsör	1960 Kungsör	5	Pendlingskommuner	SKL05 commuter municipalities (51 municipalities)	commuter
+1961	Hallstahammar	1961 Hallstahammar	5	Pendlingskommuner	SKL05 commuter municipalities (51 municipalities)	commuter
+1962	Norberg	1962 Norberg	5	Pendlingskommuner	SKL05 commuter municipalities (51 municipalities)	commuter
+2026	Gagnef	2026 Gagnef	5	Pendlingskommuner	SKL05 commuter municipalities (51 municipalities)	commuter
+2034	Orsa	2034 Orsa	5	Pendlingskommuner	SKL05 commuter municipalities (51 municipalities)	commuter
+2061	Smedjebacken	2061 Smedjebacken	5	Pendlingskommuner	SKL05 commuter municipalities (51 municipalities)	commuter
+2082	Säter	2082 Säter	5	Pendlingskommuner	SKL05 commuter municipalities (51 municipalities)	commuter
+2101	Ockelbo	2101 Ockelbo	5	Pendlingskommuner	SKL05 commuter municipalities (51 municipalities)	commuter
+2309	Krokom	2309 Krokom	5	Pendlingskommuner	SKL05 commuter municipalities (51 municipalities)	commuter
+2403	Bjurholm	2403 Bjurholm	5	Pendlingskommuner	SKL05 commuter municipalities (51 municipalities)	commuter
+2460	Vännäs	2460 Vännäs	5	Pendlingskommuner	SKL05 commuter municipalities (51 municipalities)	commuter
+0188	Norrtälje	0188 Norrtälje	6	Turism- och besöksnäringskommuner	SKL06 tourism and travel industry municipalities (20 municipalities)	tourism and travel industry
+0382	Östhammar	0382 Östhammar	6	Turism- och besöksnäringskommuner	SKL06 tourism and travel industry municipalities (20 municipalities)	tourism and travel industry
+0563	Valdemarsvik	0563 Valdemarsvik	6	Turism- och besöksnäringskommuner	SKL06 tourism and travel industry municipalities (20 municipalities)	tourism and travel industry
+0885	Borgholm	0885 Borgholm	6	Turism- och besöksnäringskommuner	SKL06 tourism and travel industry municipalities (20 municipalities)	tourism and travel industry
+0980	Gotland	0980 Gotland	6	Turism- och besöksnäringskommuner	SKL06 tourism and travel industry municipalities (20 municipalities)	tourism and travel industry
+1278	Båstad	1278 Båstad	6	Turism- och besöksnäringskommuner	SKL06 tourism and travel industry municipalities (20 municipalities)	tourism and travel industry
+1427	Sotenäs	1427 Sotenäs	6	Turism- och besöksnäringskommuner	SKL06 tourism and travel industry municipalities (20 municipalities)	tourism and travel industry
+1435	Tanum	1435 Tanum	6	Turism- och besöksnäringskommuner	SKL06 tourism and travel industry municipalities (20 municipalities)	tourism and travel industry
+1484	Lysekil	1484 Lysekil	6	Turism- och besöksnäringskommuner	SKL06 tourism and travel industry municipalities (20 municipalities)	tourism and travel industry
+1486	Strömstad	1486 Strömstad	6	Turism- och besöksnäringskommuner	SKL06 tourism and travel industry municipalities (20 municipalities)	tourism and travel industry
+2023	Malung-Sälen	2023 Malung-Sälen	6	Turism- och besöksnäringskommuner	SKL06 tourism and travel industry municipalities (20 municipalities)	tourism and travel industry
+2031	Rättvik	2031 Rättvik	6	Turism- och besöksnäringskommuner	SKL06 tourism and travel industry municipalities (20 municipalities)	tourism and travel industry
+2039	Älvdalen	2039 Älvdalen	6	Turism- och besöksnäringskommuner	SKL06 tourism and travel industry municipalities (20 municipalities)	tourism and travel industry
+2321	Åre	2321 Åre	6	Turism- och besöksnäringskommuner	SKL06 tourism and travel industry municipalities (20 municipalities)	tourism and travel industry
+2326	Berg	2326 Berg	6	Turism- och besöksnäringskommuner	SKL06 tourism and travel industry municipalities (20 municipalities)	tourism and travel industry
+2361	Härjedalen	2361 Härjedalen	6	Turism- och besöksnäringskommuner	SKL06 tourism and travel industry municipalities (20 municipalities)	tourism and travel industry
+2421	Storuman	2421 Storuman	6	Turism- och besöksnäringskommuner	SKL06 tourism and travel industry municipalities (20 municipalities)	tourism and travel industry
+2425	Dorotea	2425 Dorotea	6	Turism- och besöksnäringskommuner	SKL06 tourism and travel industry municipalities (20 municipalities)	tourism and travel industry
+2506	Arjeplog	2506 Arjeplog	6	Turism- och besöksnäringskommuner	SKL06 tourism and travel industry municipalities (20 municipalities)	tourism and travel industry
+2510	Jokkmokk	2510 Jokkmokk	6	Turism- och besöksnäringskommuner	SKL06 tourism and travel industry municipalities (20 municipalities)	tourism and travel industry
+0360	Tierp	0360 Tierp	7	Varuproducerande kommuner	SKL07 manufacturing municipalities (54 municipalities)	manufacturing
+0481	Oxelösund	0481 Oxelösund	7	Varuproducerande kommuner	SKL07 manufacturing municipalities (54 municipalities)	manufacturing
+0562	Finspång	0562 Finspång	7	Varuproducerande kommuner	SKL07 manufacturing municipalities (54 municipalities)	manufacturing
+0617	Gnosjö	0617 Gnosjö	7	Varuproducerande kommuner	SKL07 manufacturing municipalities (54 municipalities)	manufacturing
+0662	Gislaved	0662 Gislaved	7	Varuproducerande kommuner	SKL07 manufacturing municipalities (54 municipalities)	manufacturing
+0665	Vaggeryd	0665 Vaggeryd	7	Varuproducerande kommuner	SKL07 manufacturing municipalities (54 municipalities)	manufacturing
+0683	Värnamo	0683 Värnamo	7	Varuproducerande kommuner	SKL07 manufacturing municipalities (54 municipalities)	manufacturing
+0684	Sävsjö	0684 Sävsjö	7	Varuproducerande kommuner	SKL07 manufacturing municipalities (54 municipalities)	manufacturing
+0685	Vetlanda	0685 Vetlanda	7	Varuproducerande kommuner	SKL07 manufacturing municipalities (54 municipalities)	manufacturing
+0687	Tranås	0687 Tranås	7	Varuproducerande kommuner	SKL07 manufacturing municipalities (54 municipalities)	manufacturing
+0760	Uppvidinge	0760 Uppvidinge	7	Varuproducerande kommuner	SKL07 manufacturing municipalities (54 municipalities)	manufacturing
+0763	Tingsryd	0763 Tingsryd	7	Varuproducerande kommuner	SKL07 manufacturing municipalities (54 municipalities)	manufacturing
+0767	Markaryd	0767 Markaryd	7	Varuproducerande kommuner	SKL07 manufacturing municipalities (54 municipalities)	manufacturing
+0781	Ljungby	0781 Ljungby	7	Varuproducerande kommuner	SKL07 manufacturing municipalities (54 municipalities)	manufacturing
+0834	Torsås	0834 Torsås	7	Varuproducerande kommuner	SKL07 manufacturing municipalities (54 municipalities)	manufacturing
+0860	Hultsfred	0860 Hultsfred	7	Varuproducerande kommuner	SKL07 manufacturing municipalities (54 municipalities)	manufacturing
+0861	Mönsterås	0861 Mönsterås	7	Varuproducerande kommuner	SKL07 manufacturing municipalities (54 municipalities)	manufacturing
+0862	Emmaboda	0862 Emmaboda	7	Varuproducerande kommuner	SKL07 manufacturing municipalities (54 municipalities)	manufacturing
+0881	Nybro	0881 Nybro	7	Varuproducerande kommuner	SKL07 manufacturing municipalities (54 municipalities)	manufacturing
+0882	Oskarshamn	0882 Oskarshamn	7	Varuproducerande kommuner	SKL07 manufacturing municipalities (54 municipalities)	manufacturing
+0884	Vimmerby	0884 Vimmerby	7	Varuproducerande kommuner	SKL07 manufacturing municipalities (54 municipalities)	manufacturing
+1060	Olofström	1060 Olofström	7	Varuproducerande kommuner	SKL07 manufacturing municipalities (54 municipalities)	manufacturing
+1257	Örkelljunga	1257 Örkelljunga	7	Varuproducerande kommuner	SKL07 manufacturing municipalities (54 municipalities)	manufacturing
+1275	Perstorp	1275 Perstorp	7	Varuproducerande kommuner	SKL07 manufacturing municipalities (54 municipalities)	manufacturing
+1315	Hylte	1315 Hylte	7	Varuproducerande kommuner	SKL07 manufacturing municipalities (54 municipalities)	manufacturing
+1447	Gullspång	1447 Gullspång	7	Varuproducerande kommuner	SKL07 manufacturing municipalities (54 municipalities)	manufacturing
+1452	Tranemo	1452 Tranemo	7	Varuproducerande kommuner	SKL07 manufacturing municipalities (54 municipalities)	manufacturing
+1460	Bengtsfors	1460 Bengtsfors	7	Varuproducerande kommuner	SKL07 manufacturing municipalities (54 municipalities)	manufacturing
+1466	Herrljunga	1466 Herrljunga	7	Varuproducerande kommuner	SKL07 manufacturing municipalities (54 municipalities)	manufacturing
+1470	Vara	1470 Vara	7	Varuproducerande kommuner	SKL07 manufacturing municipalities (54 municipalities)	manufacturing
+1471	Götene	1471 Götene	7	Varuproducerande kommuner	SKL07 manufacturing municipalities (54 municipalities)	manufacturing
+1473	Töreboda	1473 Töreboda	7	Varuproducerande kommuner	SKL07 manufacturing municipalities (54 municipalities)	manufacturing
+1498	Tidaholm	1498 Tidaholm	7	Varuproducerande kommuner	SKL07 manufacturing municipalities (54 municipalities)	manufacturing
+1762	Munkfors	1762 Munkfors	7	Varuproducerande kommuner	SKL07 manufacturing municipalities (54 municipalities)	manufacturing
+1764	Grums	1764 Grums	7	Varuproducerande kommuner	SKL07 manufacturing municipalities (54 municipalities)	manufacturing
+1782	Filipstad	1782 Filipstad	7	Varuproducerande kommuner	SKL07 manufacturing municipalities (54 municipalities)	manufacturing
+1783	Hagfors	1783 Hagfors	7	Varuproducerande kommuner	SKL07 manufacturing municipalities (54 municipalities)	manufacturing
+1784	Arvika	1784 Arvika	7	Varuproducerande kommuner	SKL07 manufacturing municipalities (54 municipalities)	manufacturing
+1860	Laxå	1860 Laxå	7	Varuproducerande kommuner	SKL07 manufacturing municipalities (54 municipalities)	manufacturing
+1864	Ljusnarsberg	1864 Ljusnarsberg	7	Varuproducerande kommuner	SKL07 manufacturing municipalities (54 municipalities)	manufacturing
+1882	Askersund	1882 Askersund	7	Varuproducerande kommuner	SKL07 manufacturing municipalities (54 municipalities)	manufacturing
+1883	Karlskoga	1883 Karlskoga	7	Varuproducerande kommuner	SKL07 manufacturing municipalities (54 municipalities)	manufacturing
+1885	Lindesberg	1885 Lindesberg	7	Varuproducerande kommuner	SKL07 manufacturing municipalities (54 municipalities)	manufacturing
+1982	Fagersta	1982 Fagersta	7	Varuproducerande kommuner	SKL07 manufacturing municipalities (54 municipalities)	manufacturing
+1983	Köping	1983 Köping	7	Varuproducerande kommuner	SKL07 manufacturing municipalities (54 municipalities)	manufacturing
+1984	Arboga	1984 Arboga	7	Varuproducerande kommuner	SKL07 manufacturing municipalities (54 municipalities)	manufacturing
+2084	Avesta	2084 Avesta	7	Varuproducerande kommuner	SKL07 manufacturing municipalities (54 municipalities)	manufacturing
+2085	Ludvika	2085 Ludvika	7	Varuproducerande kommuner	SKL07 manufacturing municipalities (54 municipalities)	manufacturing
+2104	Hofors	2104 Hofors	7	Varuproducerande kommuner	SKL07 manufacturing municipalities (54 municipalities)	manufacturing
+2121	Ovanåker	2121 Ovanåker	7	Varuproducerande kommuner	SKL07 manufacturing municipalities (54 municipalities)	manufacturing
+2181	Sandviken	2181 Sandviken	7	Varuproducerande kommuner	SKL07 manufacturing municipalities (54 municipalities)	manufacturing
+2417	Norsjö	2417 Norsjö	7	Varuproducerande kommuner	SKL07 manufacturing municipalities (54 municipalities)	manufacturing
+2418	Malå	2418 Malå	7	Varuproducerande kommuner	SKL07 manufacturing municipalities (54 municipalities)	manufacturing
+2523	Gällivare	2523 Gällivare	7	Varuproducerande kommuner	SKL07 manufacturing municipalities (54 municipalities)	manufacturing
+1438	Dals-Ed	1438 Dals-Ed	8	Glesbygdkommuner	SKL08 sparsely populated municipalities (20 municipalities)	sparsely populated
+1737	Torsby	1737 Torsby	8	Glesbygdkommuner	SKL08 sparsely populated municipalities (20 municipalities)	sparsely populated
+1765	Årjäng	1765 Årjäng	8	Glesbygdkommuner	SKL08 sparsely populated municipalities (20 municipalities)	sparsely populated
+2021	Vansbro	2021 Vansbro	8	Glesbygdkommuner	SKL08 sparsely populated municipalities (20 municipalities)	sparsely populated
+2132	Nordanstig	2132 Nordanstig	8	Glesbygdkommuner	SKL08 sparsely populated municipalities (20 municipalities)	sparsely populated
+2161	Ljusdal	2161 Ljusdal	8	Glesbygdkommuner	SKL08 sparsely populated municipalities (20 municipalities)	sparsely populated
+2260	Ånge	2260 Ånge	8	Glesbygdkommuner	SKL08 sparsely populated municipalities (20 municipalities)	sparsely populated
+2283	Sollefteå	2283 Sollefteå	8	Glesbygdkommuner	SKL08 sparsely populated municipalities (20 municipalities)	sparsely populated
+2303	Ragunda	2303 Ragunda	8	Glesbygdkommuner	SKL08 sparsely populated municipalities (20 municipalities)	sparsely populated
+2305	Bräcke	2305 Bräcke	8	Glesbygdkommuner	SKL08 sparsely populated municipalities (20 municipalities)	sparsely populated
+2313	Strömsund	2313 Strömsund	8	Glesbygdkommuner	SKL08 sparsely populated municipalities (20 municipalities)	sparsely populated
+2401	Nordmaling	2401 Nordmaling	8	Glesbygdkommuner	SKL08 sparsely populated municipalities (20 municipalities)	sparsely populated
+2404	Vindeln	2404 Vindeln	8	Glesbygdkommuner	SKL08 sparsely populated municipalities (20 municipalities)	sparsely populated
+2409	Robertsfors	2409 Robertsfors	8	Glesbygdkommuner	SKL08 sparsely populated municipalities (20 municipalities)	sparsely populated
+2422	Sorsele	2422 Sorsele	8	Glesbygdkommuner	SKL08 sparsely populated municipalities (20 municipalities)	sparsely populated
+2462	Vilhelmina	2462 Vilhelmina	8	Glesbygdkommuner	SKL08 sparsely populated municipalities (20 municipalities)	sparsely populated
+2463	Åsele	2463 Åsele	8	Glesbygdkommuner	SKL08 sparsely populated municipalities (20 municipalities)	sparsely populated
+2513	Överkalix	2513 Överkalix	8	Glesbygdkommuner	SKL08 sparsely populated municipalities (20 municipalities)	sparsely populated
+2518	Övertorneå	2518 Övertorneå	8	Glesbygdkommuner	SKL08 sparsely populated municipalities (20 municipalities)	sparsely populated
+2521	Pajala	2521 Pajala	8	Glesbygdkommuner	SKL08 sparsely populated municipalities (20 municipalities)	sparsely populated
+0381	Enköping	0381 Enköping	9	Kommuner i tätbefolkad region	SKL09 municipalities in densely populated regions (35 municipalities)	in densely populated regions
+0482	Flen	0482 Flen	9	Kommuner i tätbefolkad region	SKL09 municipalities in densely populated regions (35 municipalities)	in densely populated regions
+0483	Katrineholm	0483 Katrineholm	9	Kommuner i tätbefolkad region	SKL09 municipalities in densely populated regions (35 municipalities)	in densely populated regions
+0513	Kinda	0513 Kinda	9	Kommuner i tätbefolkad region	SKL09 municipalities in densely populated regions (35 municipalities)	in densely populated regions
+0583	Motala	0583 Motala	9	Kommuner i tätbefolkad region	SKL09 municipalities in densely populated regions (35 municipalities)	in densely populated regions
+0586	Mjölby	0586 Mjölby	9	Kommuner i tätbefolkad region	SKL09 municipalities in densely populated regions (35 municipalities)	in densely populated regions
+0682	Nässjö	0682 Nässjö	9	Kommuner i tätbefolkad region	SKL09 municipalities in densely populated regions (35 municipalities)	in densely populated regions
+0686	Eksjö	0686 Eksjö	9	Kommuner i tätbefolkad region	SKL09 municipalities in densely populated regions (35 municipalities)	in densely populated regions
+0765	Älmhult	0765 Älmhult	9	Kommuner i tätbefolkad region	SKL09 municipalities in densely populated regions (35 municipalities)	in densely populated regions
+0883	Västervik	0883 Västervik	9	Kommuner i tätbefolkad region	SKL09 municipalities in densely populated regions (35 municipalities)	in densely populated regions
+1081	Ronneby	1081 Ronneby	9	Kommuner i tätbefolkad region	SKL09 municipalities in densely populated regions (35 municipalities)	in densely populated regions
+1082	Karlshamn	1082 Karlshamn	9	Kommuner i tätbefolkad region	SKL09 municipalities in densely populated regions (35 municipalities)	in densely populated regions
+1083	Sölvesborg	1083 Sölvesborg	9	Kommuner i tätbefolkad region	SKL09 municipalities in densely populated regions (35 municipalities)	in densely populated regions
+1282	Landskrona	1282 Landskrona	9	Kommuner i tätbefolkad region	SKL09 municipalities in densely populated regions (35 municipalities)	in densely populated regions
+1286	Ystad	1286 Ystad	9	Kommuner i tätbefolkad region	SKL09 municipalities in densely populated regions (35 municipalities)	in densely populated regions
+1291	Simrishamn	1291 Simrishamn	9	Kommuner i tätbefolkad region	SKL09 municipalities in densely populated regions (35 municipalities)	in densely populated regions
+1381	Laholm	1381 Laholm	9	Kommuner i tätbefolkad region	SKL09 municipalities in densely populated regions (35 municipalities)	in densely populated regions
+1382	Falkenberg	1382 Falkenberg	9	Kommuner i tätbefolkad region	SKL09 municipalities in densely populated regions (35 municipalities)	in densely populated regions
+1446	Karlsborg	1446 Karlsborg	9	Kommuner i tätbefolkad region	SKL09 municipalities in densely populated regions (35 municipalities)	in densely populated regions
+1461	Mellerud	1461 Mellerud	9	Kommuner i tätbefolkad region	SKL09 municipalities in densely populated regions (35 municipalities)	in densely populated regions
+1463	Mark	1463 Mark	9	Kommuner i tätbefolkad region	SKL09 municipalities in densely populated regions (35 municipalities)	in densely populated regions
+1465	Svenljunga	1465 Svenljunga	9	Kommuner i tätbefolkad region	SKL09 municipalities in densely populated regions (35 municipalities)	in densely populated regions
+1491	Ulricehamn	1491 Ulricehamn	9	Kommuner i tätbefolkad region	SKL09 municipalities in densely populated regions (35 municipalities)	in densely populated regions
+1492	Åmål	1492 Åmål	9	Kommuner i tätbefolkad region	SKL09 municipalities in densely populated regions (35 municipalities)	in densely populated regions
+1493	Mariestad	1493 Mariestad	9	Kommuner i tätbefolkad region	SKL09 municipalities in densely populated regions (35 municipalities)	in densely populated regions
+1494	Lidköping	1494 Lidköping	9	Kommuner i tätbefolkad region	SKL09 municipalities in densely populated regions (35 municipalities)	in densely populated regions
+1495	Skara	1495 Skara	9	Kommuner i tätbefolkad region	SKL09 municipalities in densely populated regions (35 municipalities)	in densely populated regions
+1499	Falköping	1499 Falköping	9	Kommuner i tätbefolkad region	SKL09 municipalities in densely populated regions (35 municipalities)	in densely populated regions
+1781	Kristinehamn	1781 Kristinehamn	9	Kommuner i tätbefolkad region	SKL09 municipalities in densely populated regions (35 municipalities)	in densely populated regions
+1785	Säffle	1785 Säffle	9	Kommuner i tätbefolkad region	SKL09 municipalities in densely populated regions (35 municipalities)	in densely populated regions
+1863	Hällefors	1863 Hällefors	9	Kommuner i tätbefolkad region	SKL09 municipalities in densely populated regions (35 municipalities)	in densely populated regions
+1981	Sala	1981 Sala	9	Kommuner i tätbefolkad region	SKL09 municipalities in densely populated regions (35 municipalities)	in densely populated regions
+2029	Leksand	2029 Leksand	9	Kommuner i tätbefolkad region	SKL09 municipalities in densely populated regions (35 municipalities)	in densely populated regions
+2081	Borlänge	2081 Borlänge	9	Kommuner i tätbefolkad region	SKL09 municipalities in densely populated regions (35 municipalities)	in densely populated regions
+2083	Hedemora	2083 Hedemora	9	Kommuner i tätbefolkad region	SKL09 municipalities in densely populated regions (35 municipalities)	in densely populated regions
+1730	Eda	1730 Eda	10	Kommuner i glesbefolkad region	SKL10 municipalities in sparsely populated regions (16 municipalities)	in sparsely populated regions
+1766	Sunne	1766 Sunne	10	Kommuner i glesbefolkad region	SKL10 municipalities in sparsely populated regions (16 municipalities)	in sparsely populated regions
+2062	Mora	2062 Mora	10	Kommuner i glesbefolkad region	SKL10 municipalities in sparsely populated regions (16 municipalities)	in sparsely populated regions
+2182	Söderhamn	2182 Söderhamn	10	Kommuner i glesbefolkad region	SKL10 municipalities in sparsely populated regions (16 municipalities)	in sparsely populated regions
+2183	Bollnäs	2183 Bollnäs	10	Kommuner i glesbefolkad region	SKL10 municipalities in sparsely populated regions (16 municipalities)	in sparsely populated regions
+2184	Hudiksvall	2184 Hudiksvall	10	Kommuner i glesbefolkad region	SKL10 municipalities in sparsely populated regions (16 municipalities)	in sparsely populated regions
+2280	Härnösand	2280 Härnösand	10	Kommuner i glesbefolkad region	SKL10 municipalities in sparsely populated regions (16 municipalities)	in sparsely populated regions
+2282	Kramfors	2282 Kramfors	10	Kommuner i glesbefolkad region	SKL10 municipalities in sparsely populated regions (16 municipalities)	in sparsely populated regions
+2481	Lycksele	2481 Lycksele	10	Kommuner i glesbefolkad region	SKL10 municipalities in sparsely populated regions (16 municipalities)	in sparsely populated regions
+2505	Arvidsjaur	2505 Arvidsjaur	10	Kommuner i glesbefolkad region	SKL10 municipalities in sparsely populated regions (16 municipalities)	in sparsely populated regions
+2514	Kalix	2514 Kalix	10	Kommuner i glesbefolkad region	SKL10 municipalities in sparsely populated regions (16 municipalities)	in sparsely populated regions
+2560	Älvsbyn	2560 Älvsbyn	10	Kommuner i glesbefolkad region	SKL10 municipalities in sparsely populated regions (16 municipalities)	in sparsely populated regions
+2581	Piteå	2581 Piteå	10	Kommuner i glesbefolkad region	SKL10 municipalities in sparsely populated regions (16 municipalities)	in sparsely populated regions
+2582	Boden	2582 Boden	10	Kommuner i glesbefolkad region	SKL10 municipalities in sparsely populated regions (16 municipalities)	in sparsely populated regions
+2583	Haparanda	2583 Haparanda	10	Kommuner i glesbefolkad region	SKL10 municipalities in sparsely populated regions (16 municipalities)	in sparsely populated regions
+2584	Kiruna	2584 Kiruna	10	Kommuner i glesbefolkad region	SKL10 municipalities in sparsely populated regions (16 municipalities)	in sparsely populated regions

@@ -1,0 +1,8 @@
+Powertrain	gasoline	diesel	electricity	hydrogen	natural gas	biogasoline	biodiesel
+Gasoline	0.95					0.05	
+Diesel		0.95					0.05
+Hybrid	0.95					0.05	
+Plug-in hybrid	0.8		0.3				
+Electric_FC			1				
+Natural Gas					1		
+Flex-fuel						0.3	0.7
